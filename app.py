@@ -9,12 +9,12 @@ load_dotenv()
 app = Flask(__name__)
 app.secret_key = 'your-secret-key-here'
 
-# Database configuration - using direct values for reliability
+# Database configuration - using environment variables
 db_config = {
-    'host': '127.0.0.1',
-    'user': 'root',
-    'password': 'admin',
-    'database': 'vegetable_datasets'
+    'host': os.getenv('DB_HOST'),
+    'user': os.getenv('DB_USER'),
+    'password': os.getenv('DB_PASSWORD'),
+    'database': os.getenv('DB_NAME')
 }
 
 def get_db_connection():
@@ -27,7 +27,52 @@ def get_db_connection():
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    try:
+        conn = get_db_connection()
+        if conn is None:
+            flash('Unable to connect to the database', 'danger')
+            return render_template('index.html', trending_vegetables=[])
+            
+        cursor = conn.cursor(dictionary=True)
+        
+        # Get trending vegetables (vegetables with significant price changes)
+        cursor.execute("""
+            SELECT 
+                Item as name,
+                CAST(MAX(`Predicted Max`) AS DECIMAL(10,2)) as price,
+                CAST(
+                    ((MAX(`Predicted Max`) - MIN(`Predicted Max`)) / MIN(`Predicted Max`) * 100)
+                    AS DECIMAL(10,2)
+                ) as price_change
+            FROM future_predictions
+            WHERE Date >= CURDATE()
+            AND Item IS NOT NULL
+            AND `Predicted Max` IS NOT NULL
+            GROUP BY Item
+            HAVING COUNT(*) > 1
+            ORDER BY ABS(
+                ((MAX(`Predicted Max`) - MIN(`Predicted Max`)) / MIN(`Predicted Max`) * 100)
+            ) DESC
+            LIMIT 6
+        """)
+        
+        trending_vegetables = cursor.fetchall()
+        
+        # Format the data
+        for veg in trending_vegetables:
+            veg['name'] = veg['name'].strip()
+            veg['price'] = float(veg['price'])
+            veg['change'] = float(veg['price_change'])
+        
+        cursor.close()
+        conn.close()
+        
+        return render_template('index.html', trending_vegetables=trending_vegetables)
+        
+    except Exception as e:
+        print(f"Error in index route: {e}")
+        flash(f'An error occurred: {str(e)}', 'danger')
+        return render_template('index.html', trending_vegetables=[])
 
 @app.route('/price-prediction')
 def price_prediction():

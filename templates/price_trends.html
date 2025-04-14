@@ -202,6 +202,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 offset-md-2 text-center">
+                <div class="logo-container mb-3">
+                    <img src="{{ url_for('static', filename='images/krushilogo.png') }}" alt="Krushi Pravah Logo" style="width: 100px; height: auto;">
+                </div>
                 <h1 class="hero-title">Price Trends</h1>
                 <p class="text-muted">Track vegetable price changes over time</p>
             </div>
@@ -212,23 +215,13 @@
 <div class="container">
     <div class="filters-container">
         <div class="row">
-            <div class="col-md-6 mb-3">
+            <div class="col-md-12 mb-3">
                 <label for="vegetable" class="form-label">Select Vegetable</label>
                 <select class="form-select" id="vegetable" name="vegetable">
                     <option value="">Choose a vegetable...</option>
                     {% for item in items %}
                     <option value="{{ item['Code No'] }}">{{ item.Item }} <span class="code-badge">{{ item['Code No'] }}</span></option>
                     {% endfor %}
-                </select>
-            </div>
-            <div class="col-md-6 mb-3">
-                <label for="timeRange" class="form-label">Select Time Range</label>
-                <select class="form-select" id="timeRange" name="timeRange">
-                    <option value="7">Last 7 Days</option>
-                    <option value="14">Last 2 Weeks</option>
-                    <option value="30">Last Month</option>
-                    <option value="60">Last 2 Months</option>
-                    <option value="all" selected>All Time</option>
                 </select>
             </div>
         </div>
@@ -257,6 +250,32 @@
 
     <div class="chart-container">
         <canvas id="priceChart"></canvas>
+    </div>
+</div>
+
+<!-- Disclaimer and Credits Section -->
+<div class="container mt-4 mb-4">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title text-warning"><i class="fas fa-exclamation-triangle"></i> महत्वाची माहिती / Important Notice</h5>
+            <div class="disclaimer">
+                <p class="mb-2"><strong>डिस्क्लेमर / Disclaimer:</strong></p>
+                <ul>
+                    <li>दर्शविलेले ट्रेंड्स हे ऐतिहासिक डेटावर आधारित आहेत. भविष्यातील किंमती या कालावधीनुसार बदलू शकतात.</li>
+                    <li>The trends shown are based on historical data. Future prices may vary depending on the period.</li>
+                    <li>बाजारातील किंमती विविध घटकांवर अवलंबून असतात जसे की हवामान, मागणी-पुरवठा इ.</li>
+                    <li>Market prices depend on various factors such as weather conditions, supply-demand etc.</li>
+                </ul>
+                
+                <p class="mb-2 mt-3"><strong>बाजार माहिती / Market Information:</strong></p>
+                <ul>
+                    <li>पुणे कृषी उत्पन्न बाजार समिती (APMC), गुलटेकडी, पुणे</li>
+                    <li>Pune Agricultural Produce Market Committee (APMC), Gultekdi, Pune</li>
+                    <li>* सर्व किंमती फक्त पुणे APMC साठी लागू आहेत</li>
+                    <li>* All prices are applicable for Pune APMC only</li>
+                </ul>
+            </div>
+        </div>
     </div>
 </div>
 {% endblock %}
@@ -426,14 +445,13 @@ function updateChart(data) {
 
 function loadPriceTrends() {
     const vegetable = document.getElementById('vegetable').value;
-    const timeRange = document.getElementById('timeRange').value;
 
     if (!vegetable) {
         showError('Please select a vegetable');
         return;
     }
 
-    console.log("Loading trends for:", vegetable, "timeRange:", timeRange);
+    console.log("Loading trends for:", vegetable);
 
     // Show loading state
     document.getElementById('details-section').classList.add('d-none');
@@ -442,7 +460,7 @@ function loadPriceTrends() {
         priceChart = null;
     }
 
-    fetch(`/get_price_trends?code_no=${encodeURIComponent(vegetable)}&days=${encodeURIComponent(timeRange)}`)
+    fetch(`/get_price_trends?code_no=${encodeURIComponent(vegetable)}`)
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
@@ -466,11 +484,9 @@ function loadPriceTrends() {
 // Initialize event listeners
 document.addEventListener('DOMContentLoaded', function() {
     const vegetableSelect = document.getElementById('vegetable');
-    const timeRangeSelect = document.getElementById('timeRange');
     
-    if (vegetableSelect && timeRangeSelect) {
+    if (vegetableSelect) {
         vegetableSelect.addEventListener('change', loadPriceTrends);
-        timeRangeSelect.addEventListener('change', loadPriceTrends);
         console.log('Event listeners initialized');
     } else {
         console.error('Required elements not found');

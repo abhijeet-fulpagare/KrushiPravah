@@ -6,6 +6,9 @@
 <div class="details-container" id="details-section">
     <!-- Hero Section with gradient background -->
     <div class="hero-section text-center py-5 mb-4" style="background: linear-gradient(to right, #c5f1c4, #f1edc4); border-radius: 20px; margin: 20px;">
+        <div class="logo-container mb-3">
+            <img src="{{ url_for('static', filename='images/krushilogo.png') }}" alt="Krushi Pravah Logo" style="width: 100px; height: auto;">
+        </div>
         <h1 class="display-5 text-dark mb-2">Price Prediction</h1>
         <p class="lead text-dark mb-0">Predict vegetable prices for future dates</p>
     </div>
@@ -72,6 +75,32 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Disclaimer and Credits Section -->
+    <div class="container mt-4 mb-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title text-warning"><i class="fas fa-exclamation-triangle"></i> महत्वाची माहिती / Important Notice</h5>
+                <div class="disclaimer">
+                    <p class="mb-2"><strong>डिस्क्लेमर / Disclaimer:</strong></p>
+                    <ul>
+                        <li>सर्व किंमत अंदाज हे ऐतिहासिक डेटा आणि आधुनिक अल्गोरिदम वर आधारित आहेत. प्रत्यक्ष बाजार किंमती वेगळ्या असू शकतात.</li>
+                        <li>All price predictions are based on historical data and modern algorithms. Actual market prices may vary.</li>
+                        <li>या अंदाजांचा वापर केवळ संदर्भासाठी करावा. व्यावसायिक निर्णय घेताना इतर घटकांचाही विचार करावा.</li>
+                        <li>These predictions should be used for reference only. Consider other factors when making business decisions.</li>
+                    </ul>
+                    
+                    <p class="mb-2 mt-3"><strong>बाजार माहिती / Market Information:</strong></p>
+                    <ul>
+                        <li>पुणे कृषी उत्पन्न बाजार समिती (APMC), गुलटेकडी, पुणे</li>
+                        <li>Pune Agricultural Produce Market Committee (APMC), Gultekdi, Pune</li>
+                        <li>* सर्व किंमती फक्त पुणे APMC साठी लागू आहेत</li>
+                        <li>* All prices are applicable for Pune APMC only</li>
+                    </ul>
                 </div>
             </div>
         </div>

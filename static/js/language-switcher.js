@@ -1,27 +1,41 @@
-let currentLanguage = 'en';
+let currentLanguage = localStorage.getItem('language') || 'mr';
 
 function translateElement(element) {
+    // Check for data-translate attribute first
+    const translateKey = element.getAttribute('data-translate');
+    if (translateKey && translations[currentLanguage][translateKey]) {
+        element.textContent = translations[currentLanguage][translateKey];
+        return;
+    }
+
+    // Fall back to direct text translation if no data-translate attribute
     const text = element.textContent.trim();
-    const translationMap = currentLanguage === 'en' ? translations : reverseTranslations;
-    
-    if (translationMap[text]) {
-        element.textContent = translationMap[text];
+    if (currentLanguage === 'en') {
+        // Translating from Marathi to English
+        if (reverseTranslations[text]) {
+            element.textContent = reverseTranslations[text];
+        }
+    } else {
+        // Translating from English to Marathi
+        if (translations['mr'][text]) {
+            element.textContent = translations['mr'][text];
+        }
     }
     
     // Handle placeholders for inputs
-    if (element.placeholder && translationMap[element.placeholder]) {
-        element.placeholder = translationMap[element.placeholder];
+    if (element.placeholder) {
+        const placeholderText = element.placeholder.trim();
+        if (currentLanguage === 'en' && reverseTranslations[placeholderText]) {
+            element.placeholder = reverseTranslations[placeholderText];
+        } else if (translations['mr'][placeholderText]) {
+            element.placeholder = translations['mr'][placeholderText];
+        }
     }
 }
 
 function translatePage() {
-    // Update language button text - show opposite language option
-    const languageBtn = document.querySelector('.language-btn');
-    if (languageBtn) {
-        // When in English mode, show Marathi text
-        // When in Marathi mode, show Marathi text for English
-        languageBtn.textContent = currentLanguage === 'en' ? 'Change to English' : 'मराठी मध्ये बदला';
-    }
+    // Translate all elements with data-translate attribute
+    document.querySelectorAll('[data-translate]').forEach(translateElement);
 
     // Translate navigation links
     document.querySelectorAll('.nav-link').forEach(translateElement);
@@ -35,13 +49,13 @@ function translatePage() {
     // Translate labels
     document.querySelectorAll('label').forEach(translateElement);
 
-    // Translate buttons:not(.language-btn)
+    // Translate buttons (except language button)
     document.querySelectorAll('button:not(.language-btn)').forEach(translateElement);
 
     // Translate select options
     document.querySelectorAll('option').forEach(translateElement);
 
-    // Translate spans with text
+    // Translate spans
     document.querySelectorAll('span').forEach(translateElement);
 
     // Translate div elements with direct text
@@ -50,34 +64,26 @@ function translatePage() {
             translateElement(element);
         }
     });
-}
 
-function toggleLanguage() {
-    currentLanguage = currentLanguage === 'en' ? 'mr' : 'en';
-    translatePage();
-    
-    // Store language preference
-    localStorage.setItem('preferredLanguage', currentLanguage);
+    // Update language button text
+    const languageBtn = document.querySelector('.language-btn');
+    if (languageBtn) {
+        languageBtn.textContent = currentLanguage === 'en' ? 'मराठी मध्ये बदला' : 'Switch to English';
+    }
+
+    // Update html lang attribute
+    document.documentElement.lang = currentLanguage;
 }
 
 // Initialize language switcher
-document.addEventListener('DOMContentLoaded', () => {
-    // Load saved language preference
-    const savedLanguage = localStorage.getItem('preferredLanguage');
-    if (savedLanguage) {
-        currentLanguage = savedLanguage;
+document.addEventListener('DOMContentLoaded', function() {
+    // Initial translation
+    translatePage();
+    
+    // Language switch button click handler
+    document.querySelector('.language-btn').addEventListener('click', function() {
+        currentLanguage = currentLanguage === 'en' ? 'mr' : 'en';
+        localStorage.setItem('language', currentLanguage);
         translatePage();
-    } else {
-        // Set initial button text to Marathi since default is English
-        const languageBtn = document.querySelector('.language-btn');
-        if (languageBtn) {
-            languageBtn.textContent = 'मराठी मध्ये बदला';
-        }
-    }
-
-    // Add click event to language button
-    const languageBtn = document.querySelector('.language-btn');
-    if (languageBtn) {
-        languageBtn.addEventListener('click', toggleLanguage);
-    }
+    });
 }); 

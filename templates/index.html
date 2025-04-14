@@ -4,6 +4,15 @@
 
 {% block extra_css %}
 <style>
+    @font-face {
+        font-family: 'Noto Sans Devanagari';
+        src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap');
+    }
+
+    body {
+        font-family: 'Noto Sans Devanagari', sans-serif;
+    }
+
     .hero-section {
         background: linear-gradient(135deg, rgba(198, 255, 221, 0.8), rgba(251, 215, 134, 0.8));
         padding: 60px 0;
@@ -37,20 +46,42 @@
         opacity: 0.2;
     }
 
+    .logo-container {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .logo {
+        width: 150px;
+        height: auto;
+        margin-bottom: 15px;
+    }
+
     .hero-title {
         font-size: 2.5rem;
         color: #2c3e50;
         margin-bottom: 10px;
         font-weight: 700;
+        font-family: 'Noto Sans Devanagari', sans-serif;
     }
 
     .hero-subtitle {
         font-size: 1.2rem;
         color: #34495e;
-        margin-bottom: 30px;
+        margin-bottom: 15px;
+        font-family: 'Noto Sans Devanagari', sans-serif;
     }
 
-    .market-section {
+    .slogan {
+        font-size: 1.5rem;
+        color: #e67e22;
+        font-weight: 600;
+        margin-bottom: 30px;
+        font-style: italic;
+        font-family: 'Noto Sans Devanagari', sans-serif;
+    }
+
+    .features-section {
         background: white;
         border-radius: 15px;
         padding: 30px;
@@ -63,107 +94,45 @@
         font-size: 1.8rem;
         margin-bottom: 25px;
         font-weight: 600;
-    }
-
-    .form-select {
-        border: 2px solid #e9ecef;
-        border-radius: 10px;
-        padding: 12px;
-        font-size: 1.1rem;
-    }
-
-    .form-select:focus {
-        border-color: #28a745;
-        box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
-    }
-
-    .form-label {
-        font-weight: 600;
-        color: #34495e;
-        margin-bottom: 10px;
-    }
-
-    .price-card {
-        background: white;
-        border-radius: 15px;
-        padding: 25px;
-        margin-top: 30px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         text-align: center;
+        font-family: 'Noto Sans Devanagari', sans-serif;
     }
 
-    .price-card .location-icon {
-        width: 50px;
-        height: 50px;
-        margin-bottom: 15px;
-    }
-
-    .vegetable-name {
-        font-size: 1.5rem;
-        color: #2c3e50;
-        margin-bottom: 10px;
-        font-weight: 600;
-    }
-
-    .price-value {
-        font-size: 2rem;
-        color: #28a745;
-        font-weight: 700;
-        margin-bottom: 10px;
-    }
-
-    .price-change {
-        color: #e74c3c;
-        font-size: 0.9rem;
-    }
-
-    .price-change.up {
-        color: #e74c3c;
-    }
-
-    .price-change.down {
-        color: #27ae60;
-    }
-
-    .top-vegetables {
-        margin-top: 40px;
-    }
-
-    .veg-card {
-        background: white;
+    .feature-card {
+        background: #f8f9fa;
         border-radius: 12px;
-        padding: 20px;
+        padding: 25px;
         margin-bottom: 20px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
         transition: transform 0.2s;
+        border: 1px solid #e9ecef;
+        text-align: center;
+        height: 100%;
     }
 
-    .veg-card:hover {
+    .feature-card:hover {
         transform: translateY(-5px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
 
-    .veg-icon {
-        width: 40px;
-        height: 40px;
-        margin-bottom: 10px;
+    .feature-icon {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 20px;
+        color: #2ecc71;
     }
 
-    .veg-name {
-        font-size: 1.1rem;
-        color: #2c3e50;
-        margin-bottom: 5px;
-        font-weight: 500;
-    }
-
-    .veg-price {
+    .feature-title {
         font-size: 1.3rem;
-        color: #28a745;
+        color: #2c3e50;
+        margin-bottom: 15px;
         font-weight: 600;
+        font-family: 'Noto Sans Devanagari', sans-serif;
     }
 
-    .veg-change {
-        font-size: 0.9rem;
-        color: #e74c3c;
+    .feature-description {
+        font-size: 1rem;
+        color: #34495e;
+        line-height: 1.6;
     }
 
     @media (max-width: 768px) {
@@ -175,7 +144,11 @@
             font-size: 1rem;
         }
 
-        .market-section {
+        .slogan {
+            font-size: 1.2rem;
+        }
+
+        .features-section {
             padding: 20px;
         }
 
@@ -191,87 +164,52 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 offset-md-2 text-center">
-                <h1 class="hero-title">Krushi Pravah</h1>
-                <p class="hero-subtitle">Maharashtra Vegetable Price Analyzer</p>
+                <div class="logo-container">
+                    <img src="{{ url_for('static', filename='images/krushilogo.png') }}" alt="Krushi Pravah Logo" class="logo">
+                </div>
+                <h1 class="hero-title" data-translate="welcome">कृषी प्रवाह</h1>
+                <p class="hero-subtitle" data-translate="subtitle">महाराष्ट्रातील भाजीपाला किंमत विश्लेषक</p>
+                <p class="slogan" data-translate="slogan">जय जवान जय किसान</p>
             </div>
         </div>
     </div>
 </div>
 
 <div class="container">
-    <div class="market-section">
-        <h2 class="section-title">Today's Market Prices</h2>
+    <div class="features-section">
+        <h2 class="section-title" data-translate="features">आमची वैशिष्ट्ये</h2>
         <div class="row">
-            <div class="col-md-6 mb-3">
-                <label for="market" class="form-label">Select Market</label>
-                <select class="form-select" id="market">
-                    <option value="pune">Pune Market</option>
-                </select>
-            </div>
-            <div class="col-md-6 mb-3">
-                <label for="vegetable" class="form-label">Select Vegetable</label>
-                <select class="form-select" id="vegetable">
-                    <option value="">Choose a vegetable...</option>
-                    {% for vegetable in vegetables %}
-                    <option value="{{ vegetable }}">{{ vegetable }}</option>
-                    {% endfor %}
-                </select>
-            </div>
-        </div>
-
-        <div class="price-card">
-            <img src="/static/images/location-icon.png" alt="Location" class="location-icon">
-            <div class="vegetable-name" id="selectedVegetable">Tomato</div>
-            <div class="price-value">₹ <span id="currentPrice">38.00</span>/kg</div>
-            <div class="price-change">▲ ₹5/kg from last week</div>
-        </div>
-    </div>
-
-    <div class="top-vegetables">
-        <h2 class="section-title">Today's Top Vegetables</h2>
-        <div class="row">
-            <div class="col-md-3 col-6">
-                <div class="veg-card">
-                    <img src="/static/images/tomato-icon.png" alt="Tomato" class="veg-icon">
-                    <div class="veg-name">Tomato</div>
-                    <div class="veg-price">₹ 38.00/kg</div>
-                    <div class="veg-change">▲ ₹5</div>
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <i class="fas fa-chart-line feature-icon"></i>
+                    <h3 class="feature-title" data-translate="feature1_title">किंमत अंदाज</h3>
+                    <p class="feature-description" data-translate="feature1_desc">
+                        भविष्यातील तारखांसाठी भाज्यांच्या किमतींचे अचूक भाकीत मिळवा. 
+                        आमचे AI-आधारित मॉडेल मागील डेटाच्या आधारे अचूक अंदाज देते.
+                    </p>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
-                <div class="veg-card">
-                    <img src="/static/images/onion-icon.png" alt="Onion" class="veg-icon">
-                    <div class="veg-name">Onion</div>
-                    <div class="veg-price">₹ 28.50/kg</div>
-                    <div class="veg-change down">▼ ₹2</div>
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <i class="fas fa-chart-area feature-icon"></i>
+                    <h3 class="feature-title" data-translate="feature2_title">किंमत ट्रेंड</h3>
+                    <p class="feature-description" data-translate="feature2_desc">
+                        कालांतराने भाज्यांच्या किमतीतील बदल ट्रॅक करा. 
+                        आमचे इंटरॅक्टिव्ह चार्ट्स आपल्याला किमतीतील पॅटर्न समजण्यास मदत करतात.
+                    </p>
                 </div>
             </div>
-            <div class="col-md-3 col-6">
-                <div class="veg-card">
-                    <img src="/static/images/potato-icon.png" alt="Potato" class="veg-icon">
-                    <div class="veg-name">Potato</div>
-                    <div class="veg-price">₹ 23.75/kg</div>
-                    <div class="veg-change">▲ ₹1.50</div>
-                </div>
-            </div>
-            <div class="col-md-3 col-6">
-                <div class="veg-card">
-                    <img src="/static/images/eggplant-icon.png" alt="Eggplant" class="veg-icon">
-                    <div class="veg-name">Eggplant</div>
-                    <div class="veg-price">₹ 33.25/kg</div>
-                    <div class="veg-change down">▼ ₹3</div>
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <i class="fas fa-database feature-icon"></i>
+                    <h3 class="feature-title" data-translate="feature3_title">विश्वसनीय डेटा</h3>
+                    <p class="feature-description" data-translate="feature3_desc">
+                        महाराष्ट्रातील सर्व प्रमुख बाजारपेठांमधून वास्तविक-वेळ डेटा. 
+                        आमची माहिती नियमितपणे अद्यतनित केली जाते.
+                    </p>
                 </div>
             </div>
         </div>
     </div>
 </div>
-{% endblock %}
-
-{% block extra_js %}
-<script>
-document.getElementById('vegetable').addEventListener('change', function() {
-    const selectedVeg = this.options[this.selectedIndex].text;
-    document.getElementById('selectedVegetable').textContent = selectedVeg;
-});
-</script>
 {% endblock %} 
