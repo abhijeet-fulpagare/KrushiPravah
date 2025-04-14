@@ -1,0 +1,147 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+.card-title {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.form-label {
+    color: #2c3e50;
+    font-weight: 500;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+.result-content {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.result-content p {
+    margin-bottom: 10px;
+}
+
+.result-content strong {
+    color: #2c3e50;
+}
+
+#resultCard {
+    transition: all 0.3s ease;
+}
+
+.rupee-symbol {
+    font-family: Arial, sans-serif;
+    margin-right: 2px;
+    font-weight: normal;
+}
+
+/* Custom styles */
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+}
+
+.rupee {
+    font-family: Arial, sans-serif;
+    margin-right: 2px;
+}
+
+/* Card hover effects */
+.card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Custom button styles */
+.btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-primary:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+/* Form styling */
+.form-control:focus, .form-select:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
+
+/* Alert styling */
+.alert {
+    border-radius: 0.25rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Chart styling */
+.chart-container {
+    position: relative;
+    height: 60vh;
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.filters-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* Navbar styling */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.nav-link.active {
+    font-weight: 500;
+    color: #28a745 !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    .card {
+        margin-bottom: 1rem;
+    }
+
+    .chart-container {
+        height: 50vh;
+    }
+} 

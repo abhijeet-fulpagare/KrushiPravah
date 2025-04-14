@@ -1,0 +1,141 @@
+{% extends "base.html" %}
+
+{% block title %}Price Prediction - Krushi Pravah{% endblock %}
+
+{% block content %}
+<div class="details-container" id="details-section">
+    <!-- Hero Section with gradient background -->
+    <div class="hero-section text-center py-5 mb-4" style="background: linear-gradient(to right, #c5f1c4, #f1edc4); border-radius: 20px; margin: 20px;">
+        <h1 class="display-5 text-dark mb-2">Price Prediction</h1>
+        <p class="lead text-dark mb-0">Predict vegetable prices for future dates</p>
+    </div>
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-10">
+                <!-- Filters Section -->
+                <div class="card shadow-sm mb-4" style="border-radius: 15px; border: 1px solid #ffe4cc;">
+                    <div class="card-body p-4">
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label for="vegetable" class="form-label h6">Select Vegetable</label>
+                                <select class="form-select form-select-lg shadow-sm" id="vegetable" name="vegetable" required style="border-radius: 10px; border: 1px solid #ffd4a3;">
+                                    <option value="">Choose a vegetable...</option>
+                                    {% for vegetable in vegetables %}
+                                    <option value="{{ vegetable }}">{{ vegetable }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="date" class="form-label h6">Select Date</label>
+                                <input type="date" class="form-control form-control-lg shadow-sm" id="date" name="date" required style="border-radius: 10px; border: 1px solid #ffd4a3;">
+                            </div>
+                        </div>
+                        <div class="row mt-3">
+                            <div class="col-12">
+                                <button type="button" class="btn btn-lg w-100" id="predictBtn" style="background: linear-gradient(to right, #43c6ac, #84fab0); color: white; border: none; border-radius: 10px; padding: 12px;">
+                                    Get Price Prediction
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Loading Spinner -->
+                <div id="loadingSpinner" class="text-center py-5 d-none">
+                    <div class="spinner-border" role="status" style="color: #ff9a3c;">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                
+                <!-- Results Section -->
+                <div id="resultContent" class="d-none">
+                    <div class="card shadow-sm" style="border-radius: 15px; border: 1px solid #ffe4cc;">
+                        <div class="card-body p-4">
+                            <div class="text-center mb-4">
+                                <h4 class="card-title mb-2" id="resultVegetable" style="color: #ff6b3d;"></h4>
+                                <div class="text-muted" id="predictionDate"></div>
+                            </div>
+                            <div class="row g-4">
+                                <div class="col-md-6">
+                                    <div class="p-4 rounded-3 text-center shadow-sm" style="background: linear-gradient(145deg, #fff5eb, #fff9f2);">
+                                        <h6 class="text-muted mb-2">Minimum Price</h6>
+                                        <h2 class="mb-0" style="color: #ff6b3d;">₹<span id="minPrice">0.00</span></h2>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="p-4 rounded-3 text-center shadow-sm" style="background: linear-gradient(145deg, #fff5eb, #fff9f2);">
+                                        <h6 class="text-muted mb-2">Maximum Price</h6>
+                                        <h2 class="mb-0" style="color: #ff6b3d;">₹<span id="maxPrice">0.00</span></h2>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const loadingSpinner = document.getElementById('loadingSpinner');
+    const resultContent = document.getElementById('resultContent');
+    const predictBtn = document.getElementById('predictBtn');
+    const vegetableSelect = document.getElementById('vegetable');
+    const dateInput = document.getElementById('date');
+
+    function updatePrediction() {
+        if (!vegetableSelect.value || !dateInput.value) {
+            alert('Please select both vegetable and date');
+            return;
+        }
+
+        loadingSpinner.classList.remove('d-none');
+        resultContent.classList.add('d-none');
+
+        const formData = new FormData();
+        formData.append('vegetable', vegetableSelect.value);
+        formData.append('date', dateInput.value);
+
+        fetch('/get_prediction', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(result => {
+            if (result.success) {
+                const date = new Date(result.data.date);
+                const formattedDate = date.toLocaleDateString('en-IN', {
+                    day: 'numeric',
+                    month: 'long',
+                    year: 'numeric'
+                });
+
+                document.getElementById('resultVegetable').textContent = result.data.vegetable;
+                document.getElementById('predictionDate').textContent = formattedDate;
+                document.getElementById('minPrice').textContent = result.data.min_price.toFixed(2);
+                document.getElementById('maxPrice').textContent = result.data.max_price.toFixed(2);
+
+                resultContent.classList.remove('d-none');
+            } else {
+                alert(result.message);
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('An error occurred while fetching the prediction');
+        })
+        .finally(() => {
+            loadingSpinner.classList.add('d-none');
+        });
+    }
+
+    // Add event listener for predict button
+    predictBtn.addEventListener('click', updatePrediction);
+});
+</script>
+{% endblock %} 

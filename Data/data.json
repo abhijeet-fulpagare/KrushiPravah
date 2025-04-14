@@ -1,0 +1,1460 @@
+[
+  {
+    "code_no": "1001",
+    "item": "Onion",
+    "unit": "Quintal",
+    "quantity": "18493",
+    "min_price": 1500.0,
+    "max_price": 3000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "1002",
+    "item": "Potato",
+    "unit": "Quintal",
+    "quantity": "5973",
+    "min_price": 1300.0,
+    "max_price": 3000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "1003",
+    "item": "Garlic",
+    "unit": "Quintal",
+    "quantity": "431",
+    "min_price": 12000.0,
+    "max_price": 30000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "1004",
+    "item": "Ginger",
+    "unit": "Quintal",
+    "quantity": "612",
+    "min_price": 700.0,
+    "max_price": 2800.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2001",
+    "item": "Ladyfinger",
+    "unit": "Quintal",
+    "quantity": "231",
+    "min_price": 2000.0,
+    "max_price": 7000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2002",
+    "item": "Cluster Beans",
+    "unit": "Quintal",
+    "quantity": "68",
+    "min_price": 5000.0,
+    "max_price": 9000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2003",
+    "item": "Tomato",
+    "unit": "Quintal",
+    "quantity": "1988",
+    "min_price": 1000.0,
+    "max_price": 2500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2004",
+    "item": "Peas",
+    "unit": "Quintal",
+    "quantity": "1099",
+    "min_price": 5000.0,
+    "max_price": 7200.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2005",
+    "item": "Ridge Gourd",
+    "unit": "Quintal",
+    "quantity": "296",
+    "min_price": 3000.0,
+    "max_price": 7000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2006",
+    "item": "Tinda",
+    "unit": "Quintal",
+    "quantity": "53",
+    "min_price": 3000.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2007",
+    "item": "Green Chilli",
+    "unit": "Quintal",
+    "quantity": "786",
+    "min_price": 2000.0,
+    "max_price": 5000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2008",
+    "item": "Bottle Gourd",
+    "unit": "Quintal",
+    "quantity": "204",
+    "min_price": 1000.0,
+    "max_price": 3500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2010",
+    "item": "Cucumber",
+    "unit": "Quintal",
+    "quantity": "585",
+    "min_price": 2000.0,
+    "max_price": 3500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2011",
+    "item": "Bitter Gourd",
+    "unit": "Quintal",
+    "quantity": "79",
+    "min_price": 1200.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2012",
+    "item": "Yam",
+    "unit": "Quintal",
+    "quantity": "53",
+    "min_price": 1000.0,
+    "max_price": 2000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2013",
+    "item": "Carrot",
+    "unit": "Quintal",
+    "quantity": "1817",
+    "min_price": 1000.0,
+    "max_price": 2500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2014",
+    "item": "Snake Gourd",
+    "unit": "Quintal",
+    "quantity": "11",
+    "min_price": 2000.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2015",
+    "item": "Pointed Gourd",
+    "unit": "Quintal",
+    "quantity": "8",
+    "min_price": 3000.0,
+    "max_price": 3500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2016",
+    "item": "Cauliflower",
+    "unit": "Quintal",
+    "quantity": "755",
+    "min_price": 500.0,
+    "max_price": 1200.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2017",
+    "item": "Cabbage",
+    "unit": "Quintal",
+    "quantity": "935",
+    "min_price": 1000.0,
+    "max_price": 1600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2018",
+    "item": "Brinjal",
+    "unit": "Quintal",
+    "quantity": "374",
+    "min_price": 1000.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2019",
+    "item": "Pumpkin",
+    "unit": "Quintal",
+    "quantity": "337",
+    "min_price": 2000.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2020",
+    "item": "Elephant Foot Yam",
+    "unit": "Quintal",
+    "quantity": "10",
+    "min_price": 1500.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2021",
+    "item": "Ivy Gourd",
+    "unit": "Quintal",
+    "quantity": "23",
+    "min_price": 3000.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2022",
+    "item": "Beetroot",
+    "unit": "Quintal",
+    "quantity": "100",
+    "min_price": 1000.0,
+    "max_price": 3500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2023",
+    "item": "Ash Gourd",
+    "unit": "Quintal",
+    "quantity": "63",
+    "min_price": 1000.0,
+    "max_price": 2000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2024",
+    "item": "Parwal",
+    "unit": "Quintal",
+    "quantity": "122",
+    "min_price": 3000.0,
+    "max_price": 5000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2026",
+    "item": "Hyacinth Beans",
+    "unit": "Quintal",
+    "quantity": "156",
+    "min_price": 2000.0,
+    "max_price": 3500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2027",
+    "item": "Drumstick",
+    "unit": "Quintal",
+    "quantity": "44",
+    "min_price": 3000.0,
+    "max_price": 18000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2028",
+    "item": "Raw Mango",
+    "unit": "Quintal",
+    "quantity": "22",
+    "min_price": 1500.0,
+    "max_price": 5000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2029",
+    "item": "Chow Chow",
+    "unit": "Quintal",
+    "quantity": "3",
+    "min_price": 2000.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2031",
+    "item": "Double Beans",
+    "unit": "Quintal",
+    "quantity": "17",
+    "min_price": 3500.0,
+    "max_price": 6000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2032",
+    "item": "Amaranth Leaves",
+    "unit": "Quintal",
+    "quantity": "4",
+    "min_price": 2000.0,
+    "max_price": 3000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2035",
+    "item": "Pointed Gourd",
+    "unit": "Quintal",
+    "quantity": "7",
+    "min_price": 3000.0,
+    "max_price": 4500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2036",
+    "item": "Zucchini",
+    "unit": "Quintal",
+    "quantity": "29",
+    "min_price": 2000.0,
+    "max_price": 3000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2037",
+    "item": "Curry Leaves",
+    "unit": "Quintal",
+    "quantity": "39",
+    "min_price": 2000.0,
+    "max_price": 6000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2039",
+    "item": "Tindora",
+    "unit": "Quintal",
+    "quantity": "1",
+    "min_price": 2500.0,
+    "max_price": 3500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "2040",
+    "item": "Colocasia",
+    "unit": "Quintal",
+    "quantity": "3",
+    "min_price": 1600.0,
+    "max_price": 2500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3023",
+    "item": "Red and Yellow Pumpkin",
+    "unit": "Quintal",
+    "quantity": "24",
+    "min_price": 3000.0,
+    "max_price": 7000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3024",
+    "item": "Basil",
+    "unit": "Quintal",
+    "quantity": "2",
+    "min_price": 3000.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3025",
+    "item": "Broccoli",
+    "unit": "Quintal",
+    "quantity": "22",
+    "min_price": 3500.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3026",
+    "item": "Bok Choy",
+    "unit": "Quintal",
+    "quantity": "1",
+    "min_price": 3000.0,
+    "max_price": 3500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3027",
+    "item": "Lollo Lettuce",
+    "unit": "Quintal",
+    "quantity": "1",
+    "min_price": 2000.0,
+    "max_price": 2500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3028",
+    "item": "Chinese Cabbage",
+    "unit": "Quintal",
+    "quantity": "1",
+    "min_price": 5000.0,
+    "max_price": 6000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3029",
+    "item": "Red Cabbage",
+    "unit": "Quintal",
+    "quantity": "3",
+    "min_price": 2000.0,
+    "max_price": 3000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3030",
+    "item": "Avocado",
+    "unit": "Quintal",
+    "quantity": "9",
+    "min_price": 7000.0,
+    "max_price": 7500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3031",
+    "item": "Baby Corn",
+    "unit": "Quintal",
+    "quantity": "3",
+    "min_price": 5000.0,
+    "max_price": 7000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3032",
+    "item": "Zucchini",
+    "unit": "Quintal",
+    "quantity": "11",
+    "min_price": 2000.0,
+    "max_price": 2500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3033",
+    "item": "Cherry Tomato",
+    "unit": "Quintal",
+    "quantity": "1",
+    "min_price": 3000.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3034",
+    "item": "Lettuce",
+    "unit": "Quintal",
+    "quantity": "1",
+    "min_price": 3000.0,
+    "max_price": 4000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3035",
+    "item": "Celery",
+    "unit": "Quintal",
+    "quantity": "5",
+    "min_price": 10000.0,
+    "max_price": 15000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3036",
+    "item": "Mushroom",
+    "unit": "Quintal",
+    "quantity": "6",
+    "min_price": 10000.0,
+    "max_price": 13000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3039",
+    "item": "Romaine Lettuce",
+    "unit": "Quintal",
+    "quantity": "1",
+    "min_price": 3000.0,
+    "max_price": 3500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3042",
+    "item": "Chinese Garlic",
+    "unit": "Quintal",
+    "quantity": "3",
+    "min_price": 10000.0,
+    "max_price": 20000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3001",
+    "item": "Coriander",
+    "unit": "Per Hundred",
+    "quantity": "151290",
+    "min_price": 300.0,
+    "max_price": 700.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3002",
+    "item": "Fenugreek",
+    "unit": "Per Hundred",
+    "quantity": "81101",
+    "min_price": 500.0,
+    "max_price": 800.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3003",
+    "item": "Dill",
+    "unit": "Per Hundred",
+    "quantity": "16600",
+    "min_price": 500.0,
+    "max_price": 800.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3004",
+    "item": "Spring Onion",
+    "unit": "Per Hundred",
+    "quantity": "7175",
+    "min_price": 500.0,
+    "max_price": 2000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3005",
+    "item": "Spinach",
+    "unit": "Per Hundred",
+    "quantity": "25820",
+    "min_price": 400.0,
+    "max_price": 700.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3006",
+    "item": "Radish",
+    "unit": "Per Hundred",
+    "quantity": "2370",
+    "min_price": 1000.0,
+    "max_price": 2000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3007",
+    "item": "Amaranth Leaves",
+    "unit": "Per Hundred",
+    "quantity": "2500",
+    "min_price": 400.0,
+    "max_price": 1000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3008",
+    "item": "Mustard",
+    "unit": "Per Hundred",
+    "quantity": "480",
+    "min_price": 400.0,
+    "max_price": 700.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3009",
+    "item": "Amaranth",
+    "unit": "Per Hundred",
+    "quantity": "1050",
+    "min_price": 400.0,
+    "max_price": 700.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3010",
+    "item": "Green Garlic",
+    "unit": "Per Hundred",
+    "quantity": "13600",
+    "min_price": 500.0,
+    "max_price": 1000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3011",
+    "item": "Mint",
+    "unit": "Per Hundred",
+    "quantity": "16725",
+    "min_price": 200.0,
+    "max_price": 400.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3014",
+    "item": "Chia Seeds",
+    "unit": "Per Hundred",
+    "quantity": "100",
+    "min_price": 300.0,
+    "max_price": 1000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3015",
+    "item": "Roselle",
+    "unit": "Per Hundred",
+    "quantity": "350",
+    "min_price": 400.0,
+    "max_price": 600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3016",
+    "item": "Chia",
+    "unit": "Per Hundred",
+    "quantity": "1350",
+    "min_price": 400.0,
+    "max_price": 1000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "3022",
+    "item": "Iceberg Lettuce",
+    "unit": "Quintal",
+    "quantity": "9",
+    "min_price": 1500.0,
+    "max_price": 2000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4001",
+    "item": "Lemon",
+    "unit": "Quintal",
+    "quantity": "274",
+    "min_price": 500.0,
+    "max_price": 3100.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4002",
+    "item": "Guava",
+    "unit": "Quintal",
+    "quantity": "606",
+    "min_price": 1500.0,
+    "max_price": 3000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4007",
+    "item": "Pear",
+    "unit": "Quintal",
+    "quantity": "32",
+    "min_price": 5500.0,
+    "max_price": 7500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4023",
+    "item": "Plum",
+    "unit": "Quintal",
+    "quantity": "3",
+    "min_price": 4000.0,
+    "max_price": 15000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4034",
+    "item": "Jamun",
+    "unit": "Quintal",
+    "quantity": "1050",
+    "min_price": 2000.0,
+    "max_price": 5000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4038",
+    "item": "Pineapple",
+    "unit": "Quintal",
+    "quantity": "90",
+    "min_price": 2600.0,
+    "max_price": 6600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4041",
+    "item": "Custard Apple",
+    "unit": "Quintal",
+    "quantity": "61",
+    "min_price": 1000.0,
+    "max_price": 4500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4044",
+    "item": "Fig",
+    "unit": "Quintal",
+    "quantity": "41",
+    "min_price": 4000.0,
+    "max_price": 7000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4049",
+    "item": "Strawberry",
+    "unit": "Quintal",
+    "quantity": "8",
+    "min_price": 10000.0,
+    "max_price": 25000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4051",
+    "item": "Jujube",
+    "unit": "Quintal",
+    "quantity": "233",
+    "min_price": 1000.0,
+    "max_price": 2500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4054",
+    "item": "Sapodilla",
+    "unit": "Quintal",
+    "quantity": "43",
+    "min_price": 2000.0,
+    "max_price": 5000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4059",
+    "item": "Pomegranate - No.1",
+    "unit": "Quintal",
+    "quantity": "217",
+    "min_price": 2500.0,
+    "max_price": 15000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4063",
+    "item": "Apple - Shimla",
+    "unit": "Quintal",
+    "quantity": "319",
+    "min_price": 3000.0,
+    "max_price": 12000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4074",
+    "item": "Karonda",
+    "unit": "Quintal",
+    "quantity": "366",
+    "min_price": 1000.0,
+    "max_price": 2000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4081",
+    "item": "Amla",
+    "unit": "Quintal",
+    "quantity": "109",
+    "min_price": 2000.0,
+    "max_price": 3000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4086",
+    "item": "Banana",
+    "unit": "Quintal",
+    "quantity": "10",
+    "min_price": 800.0,
+    "max_price": 1400.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4088",
+    "item": "Sweet Lime",
+    "unit": "Quintal",
+    "quantity": "247",
+    "min_price": 2500.0,
+    "max_price": 6600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4102",
+    "item": "Papaya",
+    "unit": "Quintal",
+    "quantity": "388",
+    "min_price": 1000.0,
+    "max_price": 1700.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "4142",
+    "item": "Grapes - Tasgaon",
+    "unit": "Quintal",
+    "quantity": "32",
+    "min_price": 2000.0,
+    "max_price": 12000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5003",
+    "item": "Rice - Basmati",
+    "unit": "Quintal",
+    "quantity": "43",
+    "min_price": 6200.0,
+    "max_price": 12400.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5004",
+    "item": "Rice - Basmati Dubar",
+    "unit": "Quintal",
+    "quantity": "798",
+    "min_price": 4500.0,
+    "max_price": 6500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5005",
+    "item": "Rice - Mogara",
+    "unit": "Quintal",
+    "quantity": "557",
+    "min_price": 4200.0,
+    "max_price": 5000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5006",
+    "item": "Rice Flakes",
+    "unit": "Quintal",
+    "quantity": "633",
+    "min_price": 3500.0,
+    "max_price": 4500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5007",
+    "item": "Rice - Ambemohar",
+    "unit": "Quintal",
+    "quantity": "35",
+    "min_price": 6400.0,
+    "max_price": 7600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5008",
+    "item": "Rice - Kolam",
+    "unit": "Quintal",
+    "quantity": "685",
+    "min_price": 4200.0,
+    "max_price": 7600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5010",
+    "item": "Rice - Dass",
+    "unit": "Quintal",
+    "quantity": "706",
+    "min_price": 3200.0,
+    "max_price": 3400.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5011",
+    "item": "Rice - Ukada",
+    "unit": "Quintal",
+    "quantity": "429",
+    "min_price": 3500.0,
+    "max_price": 4500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5012",
+    "item": "Rice - Masuri",
+    "unit": "Quintal",
+    "quantity": "407",
+    "min_price": 3200.0,
+    "max_price": 3600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5013",
+    "item": "Rice - Indrayani",
+    "unit": "Quintal",
+    "quantity": "117",
+    "min_price": 4000.0,
+    "max_price": 6200.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5015",
+    "item": "Wheat - Lokwan",
+    "unit": "Quintal",
+    "quantity": "2559",
+    "min_price": 3200.0,
+    "max_price": 4300.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5017",
+    "item": "Wheat - Gujarat Vinat",
+    "unit": "Quintal",
+    "quantity": "655",
+    "min_price": 4200.0,
+    "max_price": 4600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5018",
+    "item": "Wheat - Gujarat Tukdi",
+    "unit": "Quintal",
+    "quantity": "415",
+    "min_price": 4200.0,
+    "max_price": 4800.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5019",
+    "item": "Wheat - Sinhor",
+    "unit": "Quintal",
+    "quantity": "405",
+    "min_price": 4000.0,
+    "max_price": 4900.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5021",
+    "item": "Sorghum - Maldandi No.1",
+    "unit": "Quintal",
+    "quantity": "706",
+    "min_price": 4500.0,
+    "max_price": 5200.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5022",
+    "item": "Sorghum - Maldandi No.2",
+    "unit": "Quintal",
+    "quantity": "413",
+    "min_price": 4100.0,
+    "max_price": 4700.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5024",
+    "item": "Sorghum - Vasant No.9",
+    "unit": "Quintal",
+    "quantity": "546",
+    "min_price": 4000.0,
+    "max_price": 4300.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5025",
+    "item": "Sorghum - Duri",
+    "unit": "Quintal",
+    "quantity": "402",
+    "min_price": 4200.0,
+    "max_price": 4500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5026",
+    "item": "Pearl Millet - Gowran",
+    "unit": "Quintal",
+    "quantity": "563",
+    "min_price": 3000.0,
+    "max_price": 3300.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5027",
+    "item": "Pearl Millet - Hybrid",
+    "unit": "Quintal",
+    "quantity": "446",
+    "min_price": 3200.0,
+    "max_price": 3400.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5028",
+    "item": "Pearl Millet - Mahico No.910",
+    "unit": "Quintal",
+    "quantity": "443",
+    "min_price": 3300.0,
+    "max_price": 3600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5030",
+    "item": "Peas - Green",
+    "unit": "Quintal",
+    "quantity": "34",
+    "min_price": 10200.0,
+    "max_price": 10400.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5031",
+    "item": "Peas - White",
+    "unit": "Quintal",
+    "quantity": "33",
+    "min_price": 4000.0,
+    "max_price": 5200.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5033",
+    "item": "Lentil",
+    "unit": "Quintal",
+    "quantity": "37",
+    "min_price": 7000.0,
+    "max_price": 7500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5035",
+    "item": "Coriander - Indore",
+    "unit": "Quintal",
+    "quantity": "4",
+    "min_price": 11000.0,
+    "max_price": 12000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5036",
+    "item": "Coriander - Gowran",
+    "unit": "Quintal",
+    "quantity": "1",
+    "min_price": 9000.0,
+    "max_price": 10000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5037",
+    "item": "Chickpeas - Chafa",
+    "unit": "Quintal",
+    "quantity": "42",
+    "min_price": 7500.0,
+    "max_price": 8800.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5038",
+    "item": "Chickpeas - Hybrid",
+    "unit": "Quintal",
+    "quantity": "34",
+    "min_price": 7800.0,
+    "max_price": 8600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5041",
+    "item": "Black Gram",
+    "unit": "Quintal",
+    "quantity": "5",
+    "min_price": 10000.0,
+    "max_price": 10800.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5043",
+    "item": "Maize - Red",
+    "unit": "Quintal",
+    "quantity": "3",
+    "min_price": 2500.0,
+    "max_price": 2600.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5045",
+    "item": "Tamarind - Old",
+    "unit": "Quintal",
+    "quantity": "2",
+    "min_price": 5000.0,
+    "max_price": 6000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5046",
+    "item": "Tamarind - New",
+    "unit": "Quintal",
+    "quantity": "2",
+    "min_price": 8000.0,
+    "max_price": 9500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5047",
+    "item": "Peanut - Gunguru",
+    "unit": "Quintal",
+    "quantity": "786",
+    "min_price": 9800.0,
+    "max_price": 10300.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5048",
+    "item": "Peanut - Jara",
+    "unit": "Quintal",
+    "quantity": "339",
+    "min_price": 10200.0,
+    "max_price": 10400.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5049",
+    "item": "Peanut - Spanish",
+    "unit": "Quintal",
+    "quantity": "456",
+    "min_price": 10300.0,
+    "max_price": 11300.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5050",
+    "item": "Turmeric - Rajapuri",
+    "unit": "Quintal",
+    "quantity": "2",
+    "min_price": 18000.0,
+    "max_price": 19000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5054",
+    "item": "Green Gram",
+    "unit": "Quintal",
+    "quantity": "43",
+    "min_price": 9000.0,
+    "max_price": 10300.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5057",
+    "item": "Horse Gram",
+    "unit": "Quintal",
+    "quantity": "4",
+    "min_price": 6500.0,
+    "max_price": 7500.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5058",
+    "item": "Cowpea",
+    "unit": "Quintal",
+    "quantity": "2",
+    "min_price": 9400.0,
+    "max_price": 11800.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5061",
+    "item": "Finger Millet",
+    "unit": "Quintal",
+    "quantity": "2",
+    "min_price": 4500.0,
+    "max_price": 5300.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5063",
+    "item": "Jaggery - Type 1",
+    "unit": "Quintal",
+    "quantity": "298",
+    "min_price": 3651.0,
+    "max_price": 3875.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5064",
+    "item": "Jaggery - Type 2",
+    "unit": "Quintal",
+    "quantity": "185",
+    "min_price": 3525.0,
+    "max_price": 3625.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5065",
+    "item": "Red Jaggery",
+    "unit": "Quintal",
+    "quantity": "203",
+    "min_price": 3475.0,
+    "max_price": 3515.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5067",
+    "item": "Box Jaggery",
+    "unit": "Quintal",
+    "quantity": "278",
+    "min_price": 3800.0,
+    "max_price": 4200.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5068",
+    "item": "Red Chilli - Byadgi",
+    "unit": "Quintal",
+    "quantity": "3",
+    "min_price": 16000.0,
+    "max_price": 19000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "5069",
+    "item": "Red Chilli - Guntur",
+    "unit": "Quintal",
+    "quantity": "4",
+    "min_price": 15000.0,
+    "max_price": 18000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "6009",
+    "item": "Dates",
+    "unit": "10 Kg",
+    "quantity": "1563",
+    "min_price": 500.0,
+    "max_price": 1400.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "6011",
+    "item": "Grated Coconut",
+    "unit": "25 Kg",
+    "quantity": "1642",
+    "min_price": 2820.0,
+    "max_price": 2970.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "6018",
+    "item": "Amaranth",
+    "unit": "50 Kg",
+    "quantity": "1395",
+    "min_price": 6200.0,
+    "max_price": 7400.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7002",
+    "item": "Marigold",
+    "unit": "1 Kg",
+    "quantity": "175",
+    "min_price": 150.0,
+    "max_price": 250.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7005",
+    "item": "Tube Rose",
+    "unit": "1 Kg",
+    "quantity": "3480",
+    "min_price": 80.0,
+    "max_price": 120.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7006",
+    "item": "Marigold",
+    "unit": "1 Kg",
+    "quantity": "34712",
+    "min_price": 20.0,
+    "max_price": 40.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7007",
+    "item": "Holy Basil",
+    "unit": "1 Kg",
+    "quantity": "2410",
+    "min_price": 20.0,
+    "max_price": 50.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7009",
+    "item": "Lightning",
+    "unit": "1 Kg",
+    "quantity": "7250",
+    "min_price": 20.0,
+    "max_price": 60.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7011",
+    "item": "White Chrysanthemum",
+    "unit": "1 Kg",
+    "quantity": "13690",
+    "min_price": 20.0,
+    "max_price": 50.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7012",
+    "item": "Yellow Chrysanthemum",
+    "unit": "1 Kg",
+    "quantity": "8311",
+    "min_price": 20.0,
+    "max_price": 40.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7013",
+    "item": "Aster",
+    "unit": "Per Hundred",
+    "quantity": "2943",
+    "min_price": 10.0,
+    "max_price": 20.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7015",
+    "item": "Lily",
+    "unit": "Bundle",
+    "quantity": "386",
+    "min_price": 10.0,
+    "max_price": 15.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7016",
+    "item": "Rose",
+    "unit": "Bunch",
+    "quantity": "5860",
+    "min_price": 10.0,
+    "max_price": 30.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7018",
+    "item": "Tube Rose Stick",
+    "unit": "Bunch",
+    "quantity": "557",
+    "min_price": 30.0,
+    "max_price": 60.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7020",
+    "item": "Golden D.J.",
+    "unit": "Bunch",
+    "quantity": "3359",
+    "min_price": 20.0,
+    "max_price": 30.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7021",
+    "item": "Gladiolus Plain",
+    "unit": "Bunch",
+    "quantity": "243",
+    "min_price": 20.0,
+    "max_price": 60.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7022",
+    "item": "Gladiolus Colored",
+    "unit": "Bunch",
+    "quantity": "518",
+    "min_price": 40.0,
+    "max_price": 60.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7027",
+    "item": "Tats",
+    "unit": "Bunch",
+    "quantity": "985",
+    "min_price": 20.0,
+    "max_price": 40.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7031",
+    "item": "Gerbera",
+    "unit": "Bunch",
+    "quantity": "3666",
+    "min_price": 20.0,
+    "max_price": 40.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7032",
+    "item": "Carnation",
+    "unit": "Bunch",
+    "quantity": "451",
+    "min_price": 100.0,
+    "max_price": 140.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7033",
+    "item": "Dutch Rose",
+    "unit": "Bunch",
+    "quantity": "4730",
+    "min_price": 100.0,
+    "max_price": 200.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7035",
+    "item": "Portia Tree",
+    "unit": "Per Piece",
+    "quantity": "960",
+    "min_price": 10.0,
+    "max_price": 15.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7036",
+    "item": "Hibiscus",
+    "unit": "Per Hundred",
+    "quantity": "88",
+    "min_price": 10.0,
+    "max_price": 20.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7038",
+    "item": "Lilium",
+    "unit": "Bunch",
+    "quantity": "134",
+    "min_price": 800.0,
+    "max_price": 1000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7039",
+    "item": "Orchid",
+    "unit": "Bunch",
+    "quantity": "655",
+    "min_price": 200.0,
+    "max_price": 400.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7040",
+    "item": "Anthurium",
+    "unit": "Bunch",
+    "quantity": "449",
+    "min_price": 100.0,
+    "max_price": 200.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7041",
+    "item": "Grass",
+    "unit": "Bunch",
+    "quantity": "2912",
+    "min_price": 10.0,
+    "max_price": 20.0,
+    "date": "2025-01-05"
+  },
+  {
+    "code_no": "7042",
+    "item": "Leaf",
+    "unit": "Bunch",
+    "quantity": "3310",
+    "min_price": 20.0,
+    "max_price": 30.0,
+    "date": "2025-01-05"
+  }
+]

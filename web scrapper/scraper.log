@@ -1,0 +1,1452 @@
+2025-04-13 13:15:33,641 - INFO - Starting scraping process
+2025-04-13 13:15:33,642 - INFO - Deleted original.csv
+2025-04-13 13:15:33,643 - INFO - Fetching links from main page
+2025-04-13 13:16:06,419 - INFO - Found 433 rate links
+2025-04-13 13:16:14,310 - INFO - Processing link 1/100
+2025-04-13 13:16:18,795 - INFO - Found 8 tables
+2025-04-13 13:16:18,814 - INFO - Appended 84 rows
+2025-04-13 13:16:18,814 - INFO - Processing link 2/100
+2025-04-13 13:16:22,204 - INFO - Found 8 tables
+2025-04-13 13:16:22,220 - INFO - Appended 49 rows
+2025-04-13 13:16:22,221 - INFO - Processing link 3/100
+2025-04-13 13:16:27,416 - INFO - Found 8 tables
+2025-04-13 13:16:27,436 - INFO - Appended 155 rows
+2025-04-13 13:16:27,437 - INFO - Processing link 4/100
+2025-04-13 13:16:30,900 - INFO - Found 8 tables
+2025-04-13 13:16:30,922 - INFO - Appended 159 rows
+2025-04-13 13:16:30,923 - INFO - Processing link 5/100
+2025-04-13 13:16:36,571 - INFO - Found 8 tables
+2025-04-13 13:16:36,594 - INFO - Appended 162 rows
+2025-04-13 13:16:36,595 - INFO - Processing link 6/100
+2025-04-13 13:16:40,449 - INFO - Found 8 tables
+2025-04-13 13:16:40,470 - INFO - Appended 168 rows
+2025-04-13 13:16:40,471 - INFO - Processing link 7/100
+2025-04-13 13:16:44,241 - INFO - Found 8 tables
+2025-04-13 13:16:44,262 - INFO - Appended 157 rows
+2025-04-13 13:16:44,263 - INFO - Processing link 8/100
+2025-04-13 13:16:48,135 - INFO - Found 8 tables
+2025-04-13 13:16:48,153 - INFO - Appended 93 rows
+2025-04-13 13:16:48,154 - INFO - Processing link 9/100
+2025-04-13 13:16:51,489 - INFO - Found 8 tables
+2025-04-13 13:16:51,509 - INFO - Appended 159 rows
+2025-04-13 13:16:51,511 - INFO - Processing link 10/100
+2025-04-13 13:16:55,602 - INFO - Found 8 tables
+2025-04-13 13:16:55,622 - INFO - Appended 164 rows
+2025-04-13 13:16:55,623 - INFO - Processing link 11/100
+2025-04-13 13:16:58,482 - INFO - Found 8 tables
+2025-04-13 13:16:58,503 - INFO - Appended 160 rows
+2025-04-13 13:16:58,504 - INFO - Processing link 12/100
+2025-04-13 13:17:02,275 - INFO - Found 8 tables
+2025-04-13 13:17:02,296 - INFO - Appended 157 rows
+2025-04-13 13:17:02,297 - INFO - Processing link 13/100
+2025-04-13 13:17:05,466 - INFO - Found 8 tables
+2025-04-13 13:17:05,487 - INFO - Appended 160 rows
+2025-04-13 13:17:05,488 - INFO - Processing link 14/100
+2025-04-13 13:17:08,852 - INFO - Found 8 tables
+2025-04-13 13:17:08,870 - INFO - Appended 117 rows
+2025-04-13 13:17:08,871 - INFO - Processing link 15/100
+2025-04-13 13:17:13,416 - INFO - Found 8 tables
+2025-04-13 13:17:13,433 - INFO - Appended 67 rows
+2025-04-13 13:17:13,434 - INFO - Processing link 16/100
+2025-04-13 13:17:17,383 - INFO - Found 8 tables
+2025-04-13 13:17:17,404 - INFO - Appended 161 rows
+2025-04-13 13:17:17,405 - INFO - Processing link 17/100
+2025-04-13 13:17:21,375 - INFO - Found 8 tables
+2025-04-13 13:17:21,396 - INFO - Appended 164 rows
+2025-04-13 13:17:21,397 - INFO - Processing link 18/100
+2025-04-13 13:17:24,782 - INFO - Found 8 tables
+2025-04-13 13:17:24,802 - INFO - Appended 162 rows
+2025-04-13 13:17:24,803 - INFO - Processing link 19/100
+2025-04-13 13:17:28,787 - INFO - Found 8 tables
+2025-04-13 13:17:28,809 - INFO - Appended 165 rows
+2025-04-13 13:17:28,810 - INFO - Processing link 20/100
+2025-04-13 13:17:35,090 - INFO - Found 8 tables
+2025-04-13 13:17:35,113 - INFO - Appended 164 rows
+2025-04-13 13:17:35,114 - INFO - Processing link 21/100
+2025-04-13 13:17:45,516 - INFO - Found 8 tables
+2025-04-13 13:17:45,550 - INFO - Appended 117 rows
+2025-04-13 13:17:45,551 - INFO - Processing link 22/100
+2025-04-13 13:17:50,241 - INFO - Found 8 tables
+2025-04-13 13:17:50,270 - INFO - Appended 78 rows
+2025-04-13 13:17:50,271 - INFO - Processing link 23/100
+2025-04-13 13:17:53,211 - INFO - Found 8 tables
+2025-04-13 13:17:53,235 - INFO - Appended 161 rows
+2025-04-13 13:17:53,236 - INFO - Processing link 24/100
+2025-04-13 13:17:59,260 - INFO - Found 8 tables
+2025-04-13 13:17:59,285 - INFO - Appended 167 rows
+2025-04-13 13:17:59,287 - INFO - Processing link 25/100
+2025-04-13 13:18:04,407 - INFO - Found 8 tables
+2025-04-13 13:18:04,444 - INFO - Appended 159 rows
+2025-04-13 13:18:04,445 - INFO - Processing link 26/100
+2025-04-13 13:18:07,591 - INFO - Found 8 tables
+2025-04-13 13:18:07,625 - INFO - Appended 163 rows
+2025-04-13 13:18:07,626 - INFO - Processing link 27/100
+2025-04-13 13:18:09,938 - INFO - Found 8 tables
+2025-04-13 13:18:09,976 - INFO - Appended 162 rows
+2025-04-13 13:18:09,977 - INFO - Processing link 28/100
+2025-04-13 13:18:14,728 - INFO - Found 8 tables
+2025-04-13 13:18:14,777 - INFO - Appended 118 rows
+2025-04-13 13:18:14,778 - INFO - Processing link 29/100
+2025-04-13 13:18:16,620 - INFO - Found 8 tables
+2025-04-13 13:18:16,660 - INFO - Appended 78 rows
+2025-04-13 13:18:16,661 - INFO - Processing link 30/100
+2025-04-13 13:18:28,124 - INFO - Found 8 tables
+2025-04-13 13:18:28,163 - INFO - Appended 132 rows
+2025-04-13 13:18:28,164 - INFO - Processing link 31/100
+2025-04-13 13:18:32,103 - INFO - Found 8 tables
+2025-04-13 13:18:32,157 - INFO - Appended 166 rows
+2025-04-13 13:18:32,158 - INFO - Processing link 32/100
+2025-04-13 13:18:35,397 - INFO - Found 8 tables
+2025-04-13 13:18:35,422 - INFO - Appended 166 rows
+2025-04-13 13:18:35,423 - INFO - Processing link 33/100
+2025-04-13 13:18:39,120 - INFO - Found 8 tables
+2025-04-13 13:18:39,199 - INFO - Appended 167 rows
+2025-04-13 13:18:39,201 - INFO - Processing link 34/100
+2025-04-13 13:18:41,099 - INFO - Found 8 tables
+2025-04-13 13:18:41,122 - INFO - Appended 164 rows
+2025-04-13 13:18:41,124 - INFO - Processing link 35/100
+2025-04-13 13:18:44,600 - INFO - Found 8 tables
+2025-04-13 13:18:44,631 - INFO - Appended 122 rows
+2025-04-13 13:18:44,632 - INFO - Processing link 36/100
+2025-04-13 13:18:52,920 - INFO - Found 8 tables
+2025-04-13 13:18:52,938 - INFO - Appended 78 rows
+2025-04-13 13:18:52,939 - INFO - Processing link 37/100
+2025-04-13 13:18:58,367 - INFO - Found 8 tables
+2025-04-13 13:18:58,389 - INFO - Appended 168 rows
+2025-04-13 13:18:58,390 - INFO - Processing link 38/100
+2025-04-13 13:19:03,332 - INFO - Found 8 tables
+2025-04-13 13:19:03,353 - INFO - Appended 163 rows
+2025-04-13 13:19:03,354 - INFO - Processing link 39/100
+2025-04-13 13:19:10,207 - INFO - Found 8 tables
+2025-04-13 13:19:10,228 - INFO - Appended 161 rows
+2025-04-13 13:19:10,229 - INFO - Processing link 40/100
+2025-04-13 13:19:14,905 - INFO - Found 8 tables
+2025-04-13 13:19:14,927 - INFO - Appended 162 rows
+2025-04-13 13:19:14,928 - INFO - Processing link 41/100
+2025-04-13 13:19:19,982 - INFO - Found 8 tables
+2025-04-13 13:19:20,001 - INFO - Appended 119 rows
+2025-04-13 13:19:20,003 - INFO - Processing link 42/100
+2025-04-13 13:19:23,710 - INFO - Found 8 tables
+2025-04-13 13:19:23,730 - INFO - Appended 78 rows
+2025-04-13 13:19:23,731 - INFO - Processing link 43/100
+2025-04-13 13:19:25,408 - INFO - Found 8 tables
+2025-04-13 13:19:25,430 - INFO - Appended 165 rows
+2025-04-13 13:19:25,431 - INFO - Processing link 44/100
+2025-04-13 13:19:33,395 - INFO - Found 8 tables
+2025-04-13 13:19:33,418 - INFO - Appended 165 rows
+2025-04-13 13:19:33,419 - INFO - Processing link 45/100
+2025-04-13 13:19:36,618 - INFO - Found 8 tables
+2025-04-13 13:19:36,640 - INFO - Appended 165 rows
+2025-04-13 13:19:36,641 - INFO - Processing link 46/100
+2025-04-13 13:19:40,976 - INFO - Found 8 tables
+2025-04-13 13:19:40,997 - INFO - Appended 164 rows
+2025-04-13 13:19:40,998 - INFO - Processing link 47/100
+2025-04-13 13:22:07,776 - INFO - Starting scraping process
+2025-04-13 13:22:07,778 - INFO - Deleted original.csv
+2025-04-13 13:22:07,779 - INFO - Deleted data.json
+2025-04-13 13:22:07,779 - INFO - Fetching links from main page
+2025-04-13 13:22:43,414 - INFO - Found 433 rate links
+2025-04-13 13:22:49,641 - INFO - Processing link 1/100
+2025-04-13 13:22:56,807 - INFO - Found 8 tables
+2025-04-13 13:22:56,812 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:22:56,831 - INFO - Appended 84 rows
+2025-04-13 13:22:56,832 - INFO - Processing link 2/100
+2025-04-13 13:23:00,285 - INFO - Found 8 tables
+2025-04-13 13:23:00,291 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:00,325 - INFO - Appended 49 rows
+2025-04-13 13:23:00,326 - INFO - Processing link 3/100
+2025-04-13 13:23:04,046 - INFO - Found 8 tables
+2025-04-13 13:23:04,056 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:04,093 - INFO - Appended 155 rows
+2025-04-13 13:23:04,094 - INFO - Processing link 4/100
+2025-04-13 13:23:07,390 - INFO - Found 8 tables
+2025-04-13 13:23:07,402 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:07,452 - INFO - Appended 159 rows
+2025-04-13 13:23:07,453 - INFO - Processing link 5/100
+2025-04-13 13:23:09,438 - INFO - Found 8 tables
+2025-04-13 13:23:09,450 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:09,487 - INFO - Appended 162 rows
+2025-04-13 13:23:09,489 - INFO - Processing link 6/100
+2025-04-13 13:23:12,818 - INFO - Found 8 tables
+2025-04-13 13:23:12,824 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:12,849 - INFO - Appended 168 rows
+2025-04-13 13:23:12,850 - INFO - Processing link 7/100
+2025-04-13 13:23:15,543 - INFO - Found 8 tables
+2025-04-13 13:23:15,548 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:15,568 - INFO - Appended 157 rows
+2025-04-13 13:23:15,569 - INFO - Processing link 8/100
+2025-04-13 13:23:18,615 - INFO - Found 8 tables
+2025-04-13 13:23:18,620 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:18,638 - INFO - Appended 93 rows
+2025-04-13 13:23:18,639 - INFO - Processing link 9/100
+2025-04-13 13:23:22,250 - INFO - Found 8 tables
+2025-04-13 13:23:22,256 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:22,278 - INFO - Appended 159 rows
+2025-04-13 13:23:22,279 - INFO - Processing link 10/100
+2025-04-13 13:23:24,512 - INFO - Found 8 tables
+2025-04-13 13:23:24,518 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:24,538 - INFO - Appended 164 rows
+2025-04-13 13:23:24,539 - INFO - Processing link 11/100
+2025-04-13 13:23:27,621 - INFO - Found 8 tables
+2025-04-13 13:23:27,626 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:27,647 - INFO - Appended 160 rows
+2025-04-13 13:23:27,648 - INFO - Processing link 12/100
+2025-04-13 13:23:29,317 - INFO - Found 8 tables
+2025-04-13 13:23:29,322 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:29,341 - INFO - Appended 157 rows
+2025-04-13 13:23:29,342 - INFO - Processing link 13/100
+2025-04-13 13:23:30,975 - INFO - Found 8 tables
+2025-04-13 13:23:30,981 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:31,003 - INFO - Appended 160 rows
+2025-04-13 13:23:31,004 - INFO - Processing link 14/100
+2025-04-13 13:23:34,547 - INFO - Found 8 tables
+2025-04-13 13:23:34,552 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:34,572 - INFO - Appended 117 rows
+2025-04-13 13:23:34,574 - INFO - Processing link 15/100
+2025-04-13 13:23:37,817 - INFO - Found 8 tables
+2025-04-13 13:23:37,822 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:37,841 - INFO - Appended 67 rows
+2025-04-13 13:23:37,842 - INFO - Processing link 16/100
+2025-04-13 13:23:40,738 - INFO - Found 8 tables
+2025-04-13 13:23:40,743 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:40,764 - INFO - Appended 161 rows
+2025-04-13 13:23:40,765 - INFO - Processing link 17/100
+2025-04-13 13:23:44,197 - INFO - Found 8 tables
+2025-04-13 13:23:44,202 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:44,222 - INFO - Appended 164 rows
+2025-04-13 13:23:44,223 - INFO - Processing link 18/100
+2025-04-13 13:23:48,297 - INFO - Found 8 tables
+2025-04-13 13:23:48,303 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:48,323 - INFO - Appended 162 rows
+2025-04-13 13:23:48,324 - INFO - Processing link 19/100
+2025-04-13 13:23:52,772 - INFO - Found 8 tables
+2025-04-13 13:23:52,778 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:23:52,798 - INFO - Appended 165 rows
+2025-04-13 13:23:52,799 - INFO - Processing link 20/100
+2025-04-13 13:25:30,004 - INFO - Starting scraping process
+2025-04-13 13:25:30,005 - INFO - Deleted original.csv
+2025-04-13 13:25:30,006 - INFO - Deleted data.json
+2025-04-13 13:25:30,007 - INFO - Fetching links from main page
+2025-04-13 13:27:27,866 - INFO - Starting scraping process
+2025-04-13 13:27:27,866 - INFO - Fetching links from main page
+2025-04-13 13:28:01,766 - INFO - Found 433 rate links
+2025-04-13 13:28:08,056 - INFO - Processing link 1/100
+2025-04-13 13:28:11,053 - INFO - Found 8 tables
+2025-04-13 13:28:11,055 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:11,086 - INFO - Appended 84 rows
+2025-04-13 13:28:11,087 - INFO - Processing link 2/100
+2025-04-13 13:28:14,464 - INFO - Found 8 tables
+2025-04-13 13:28:14,467 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:14,507 - INFO - Appended 49 rows
+2025-04-13 13:28:14,509 - INFO - Processing link 3/100
+2025-04-13 13:28:18,290 - INFO - Found 8 tables
+2025-04-13 13:28:18,293 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:18,345 - INFO - Appended 155 rows
+2025-04-13 13:28:18,346 - INFO - Processing link 4/100
+2025-04-13 13:28:21,798 - INFO - Found 8 tables
+2025-04-13 13:28:21,800 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:21,819 - INFO - Appended 159 rows
+2025-04-13 13:28:21,820 - INFO - Processing link 5/100
+2025-04-13 13:28:25,465 - INFO - Found 8 tables
+2025-04-13 13:28:25,468 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:25,490 - INFO - Appended 162 rows
+2025-04-13 13:28:25,491 - INFO - Processing link 6/100
+2025-04-13 13:28:30,258 - INFO - Found 8 tables
+2025-04-13 13:28:30,259 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:30,278 - INFO - Appended 168 rows
+2025-04-13 13:28:30,279 - INFO - Processing link 7/100
+2025-04-13 13:28:33,329 - INFO - Found 8 tables
+2025-04-13 13:28:33,330 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:33,351 - INFO - Appended 157 rows
+2025-04-13 13:28:33,352 - INFO - Processing link 8/100
+2025-04-13 13:28:37,225 - INFO - Found 8 tables
+2025-04-13 13:28:37,227 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:37,245 - INFO - Appended 93 rows
+2025-04-13 13:28:37,246 - INFO - Processing link 9/100
+2025-04-13 13:28:40,178 - INFO - Found 8 tables
+2025-04-13 13:28:40,180 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:40,200 - INFO - Appended 159 rows
+2025-04-13 13:28:40,201 - INFO - Processing link 10/100
+2025-04-13 13:28:43,551 - INFO - Found 8 tables
+2025-04-13 13:28:43,554 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:43,573 - INFO - Appended 164 rows
+2025-04-13 13:28:43,575 - INFO - Processing link 11/100
+2025-04-13 13:28:46,574 - INFO - Found 8 tables
+2025-04-13 13:28:46,576 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:46,597 - INFO - Appended 160 rows
+2025-04-13 13:28:46,598 - INFO - Processing link 12/100
+2025-04-13 13:28:49,862 - INFO - Found 8 tables
+2025-04-13 13:28:49,864 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:49,884 - INFO - Appended 157 rows
+2025-04-13 13:28:49,885 - INFO - Processing link 13/100
+2025-04-13 13:28:56,211 - INFO - Found 8 tables
+2025-04-13 13:28:56,213 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:56,233 - INFO - Appended 160 rows
+2025-04-13 13:28:56,234 - INFO - Processing link 14/100
+2025-04-13 13:28:58,353 - INFO - Found 8 tables
+2025-04-13 13:28:58,355 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:28:58,373 - INFO - Appended 117 rows
+2025-04-13 13:28:58,374 - INFO - Processing link 15/100
+2025-04-13 13:29:01,581 - INFO - Found 8 tables
+2025-04-13 13:29:01,583 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:01,599 - INFO - Appended 67 rows
+2025-04-13 13:29:01,600 - INFO - Processing link 16/100
+2025-04-13 13:29:05,058 - INFO - Found 8 tables
+2025-04-13 13:29:05,060 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:05,081 - INFO - Appended 161 rows
+2025-04-13 13:29:05,082 - INFO - Processing link 17/100
+2025-04-13 13:29:07,883 - INFO - Found 8 tables
+2025-04-13 13:29:07,885 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:07,905 - INFO - Appended 164 rows
+2025-04-13 13:29:07,905 - INFO - Processing link 18/100
+2025-04-13 13:29:13,458 - INFO - Found 8 tables
+2025-04-13 13:29:13,460 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:13,484 - INFO - Appended 162 rows
+2025-04-13 13:29:13,485 - INFO - Processing link 19/100
+2025-04-13 13:29:19,324 - INFO - Found 8 tables
+2025-04-13 13:29:19,326 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:19,348 - INFO - Appended 165 rows
+2025-04-13 13:29:19,349 - INFO - Processing link 20/100
+2025-04-13 13:29:22,682 - INFO - Found 8 tables
+2025-04-13 13:29:22,684 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:22,705 - INFO - Appended 164 rows
+2025-04-13 13:29:22,706 - INFO - Processing link 21/100
+2025-04-13 13:29:27,914 - INFO - Found 8 tables
+2025-04-13 13:29:27,916 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:27,935 - INFO - Appended 117 rows
+2025-04-13 13:29:27,936 - INFO - Processing link 22/100
+2025-04-13 13:29:36,296 - INFO - Found 8 tables
+2025-04-13 13:29:36,298 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:36,315 - INFO - Appended 78 rows
+2025-04-13 13:29:36,317 - INFO - Processing link 23/100
+2025-04-13 13:29:39,819 - INFO - Found 8 tables
+2025-04-13 13:29:39,821 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:39,840 - INFO - Appended 161 rows
+2025-04-13 13:29:39,841 - INFO - Processing link 24/100
+2025-04-13 13:29:41,536 - INFO - Found 8 tables
+2025-04-13 13:29:41,538 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:41,558 - INFO - Appended 167 rows
+2025-04-13 13:29:41,559 - INFO - Processing link 25/100
+2025-04-13 13:29:44,821 - INFO - Found 8 tables
+2025-04-13 13:29:44,823 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:44,842 - INFO - Appended 159 rows
+2025-04-13 13:29:44,843 - INFO - Processing link 26/100
+2025-04-13 13:29:48,959 - INFO - Found 8 tables
+2025-04-13 13:29:48,961 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:48,980 - INFO - Appended 163 rows
+2025-04-13 13:29:48,981 - INFO - Processing link 27/100
+2025-04-13 13:29:52,217 - INFO - Found 8 tables
+2025-04-13 13:29:52,219 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:52,239 - INFO - Appended 162 rows
+2025-04-13 13:29:52,240 - INFO - Processing link 28/100
+2025-04-13 13:29:53,961 - INFO - Found 8 tables
+2025-04-13 13:29:53,963 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:53,980 - INFO - Appended 118 rows
+2025-04-13 13:29:53,982 - INFO - Processing link 29/100
+2025-04-13 13:29:59,722 - INFO - Found 8 tables
+2025-04-13 13:29:59,724 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:29:59,741 - INFO - Appended 78 rows
+2025-04-13 13:29:59,742 - INFO - Processing link 30/100
+2025-04-13 13:30:02,917 - INFO - Found 8 tables
+2025-04-13 13:30:02,919 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:02,937 - INFO - Appended 132 rows
+2025-04-13 13:30:02,938 - INFO - Processing link 31/100
+2025-04-13 13:30:06,147 - INFO - Found 8 tables
+2025-04-13 13:30:06,149 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:06,169 - INFO - Appended 166 rows
+2025-04-13 13:30:06,170 - INFO - Processing link 32/100
+2025-04-13 13:30:10,395 - INFO - Found 8 tables
+2025-04-13 13:30:10,397 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:10,416 - INFO - Appended 166 rows
+2025-04-13 13:30:10,417 - INFO - Processing link 33/100
+2025-04-13 13:30:14,901 - INFO - Found 8 tables
+2025-04-13 13:30:14,903 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:14,924 - INFO - Appended 167 rows
+2025-04-13 13:30:14,925 - INFO - Processing link 34/100
+2025-04-13 13:30:17,889 - INFO - Found 8 tables
+2025-04-13 13:30:17,890 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:17,909 - INFO - Appended 164 rows
+2025-04-13 13:30:17,910 - INFO - Processing link 35/100
+2025-04-13 13:30:21,159 - INFO - Found 8 tables
+2025-04-13 13:30:21,161 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:21,179 - INFO - Appended 122 rows
+2025-04-13 13:30:21,180 - INFO - Processing link 36/100
+2025-04-13 13:30:28,104 - INFO - Found 8 tables
+2025-04-13 13:30:28,105 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:28,125 - INFO - Appended 78 rows
+2025-04-13 13:30:28,126 - INFO - Processing link 37/100
+2025-04-13 13:30:29,802 - INFO - Found 8 tables
+2025-04-13 13:30:29,804 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:29,824 - INFO - Appended 168 rows
+2025-04-13 13:30:29,825 - INFO - Processing link 38/100
+2025-04-13 13:30:34,740 - INFO - Found 8 tables
+2025-04-13 13:30:34,742 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:34,763 - INFO - Appended 163 rows
+2025-04-13 13:30:34,764 - INFO - Processing link 39/100
+2025-04-13 13:30:38,078 - INFO - Found 8 tables
+2025-04-13 13:30:38,080 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:38,100 - INFO - Appended 161 rows
+2025-04-13 13:30:38,101 - INFO - Processing link 40/100
+2025-04-13 13:30:39,746 - INFO - Found 8 tables
+2025-04-13 13:30:39,748 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:39,769 - INFO - Appended 162 rows
+2025-04-13 13:30:39,770 - INFO - Processing link 41/100
+2025-04-13 13:30:41,435 - INFO - Found 8 tables
+2025-04-13 13:30:41,439 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:41,461 - INFO - Appended 119 rows
+2025-04-13 13:30:41,462 - INFO - Processing link 42/100
+2025-04-13 13:30:43,418 - INFO - Found 8 tables
+2025-04-13 13:30:43,420 - INFO - Extracted date: 2025-04-13
+2025-04-13 13:30:43,438 - INFO - Appended 78 rows
+2025-04-13 13:30:43,439 - INFO - Processing link 43/100
+2025-04-13 13:31:23,712 - INFO - Starting scraping process
+2025-04-13 13:31:23,714 - INFO - Deleted original.csv
+2025-04-13 13:31:23,715 - INFO - Deleted data.json
+2025-04-13 13:31:23,715 - INFO - Fetching links from main page
+2025-04-13 13:31:58,952 - INFO - Found 433 rate links
+2025-04-13 13:32:05,208 - INFO - Processing link 1/100
+2025-04-13 13:32:05,209 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4317
+2025-04-13 13:32:09,106 - INFO - Found 8 tables
+2025-04-13 13:32:09,106 - INFO - Using date: 2025-04-14
+2025-04-13 13:32:09,144 - INFO - Appended 84 rows
+2025-04-13 13:32:09,145 - INFO - Processing link 2/100
+2025-04-13 13:32:09,145 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4316
+2025-04-13 13:32:10,960 - INFO - Found 8 tables
+2025-04-13 13:32:10,960 - INFO - Using date: 2025-04-13
+2025-04-13 13:32:10,992 - INFO - Appended 49 rows
+2025-04-13 13:32:10,993 - INFO - Processing link 3/100
+2025-04-13 13:32:10,994 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4315
+2025-04-13 13:32:19,030 - INFO - Found 8 tables
+2025-04-13 13:32:19,031 - INFO - Using date: 2025-04-12
+2025-04-13 13:32:19,071 - INFO - Appended 155 rows
+2025-04-13 13:32:19,072 - INFO - Processing link 4/100
+2025-04-13 13:32:19,073 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4314
+2025-04-13 13:32:29,518 - INFO - Found 8 tables
+2025-04-13 13:32:29,519 - INFO - Using date: 2025-04-11
+2025-04-13 13:32:29,545 - INFO - Appended 159 rows
+2025-04-13 13:32:29,546 - INFO - Processing link 5/100
+2025-04-13 13:32:29,547 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4313
+2025-04-13 13:32:33,914 - INFO - Found 8 tables
+2025-04-13 13:32:33,914 - INFO - Using date: 2025-04-10
+2025-04-13 13:32:33,935 - INFO - Appended 162 rows
+2025-04-13 13:32:33,937 - INFO - Processing link 6/100
+2025-04-13 13:32:33,937 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4312
+2025-04-13 13:32:36,216 - INFO - Found 8 tables
+2025-04-13 13:32:36,217 - INFO - Using date: 2025-04-09
+2025-04-13 13:32:36,236 - INFO - Appended 168 rows
+2025-04-13 13:32:36,238 - INFO - Processing link 7/100
+2025-04-13 13:32:36,238 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4311
+2025-04-13 13:32:42,920 - INFO - Found 8 tables
+2025-04-13 13:32:42,920 - INFO - Using date: 2025-04-08
+2025-04-13 13:32:42,940 - INFO - Appended 157 rows
+2025-04-13 13:32:42,941 - INFO - Processing link 8/100
+2025-04-13 13:32:42,941 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4310
+2025-04-13 13:32:46,412 - INFO - Found 8 tables
+2025-04-13 13:32:46,413 - INFO - Using date: 2025-04-07
+2025-04-13 13:32:46,429 - INFO - Appended 93 rows
+2025-04-13 13:32:46,430 - INFO - Processing link 9/100
+2025-04-13 13:32:46,431 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4309
+2025-04-13 13:32:51,420 - INFO - Found 8 tables
+2025-04-13 13:32:51,421 - INFO - Using date: 2025-04-06
+2025-04-13 13:32:51,440 - INFO - Appended 159 rows
+2025-04-13 13:32:51,441 - INFO - Processing link 10/100
+2025-04-13 13:32:51,441 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4308
+2025-04-13 13:32:55,061 - INFO - Found 8 tables
+2025-04-13 13:32:55,062 - INFO - Using date: 2025-04-05
+2025-04-13 13:32:55,083 - INFO - Appended 164 rows
+2025-04-13 13:32:55,084 - INFO - Processing link 11/100
+2025-04-13 13:32:55,084 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4307
+2025-04-13 13:32:59,276 - INFO - Found 8 tables
+2025-04-13 13:32:59,277 - INFO - Using date: 2025-04-04
+2025-04-13 13:32:59,297 - INFO - Appended 160 rows
+2025-04-13 13:32:59,297 - INFO - Processing link 12/100
+2025-04-13 13:32:59,298 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4306
+2025-04-13 13:33:03,742 - INFO - Found 8 tables
+2025-04-13 13:33:03,742 - INFO - Using date: 2025-04-03
+2025-04-13 13:33:03,760 - INFO - Appended 157 rows
+2025-04-13 13:33:03,761 - INFO - Processing link 13/100
+2025-04-13 13:33:03,762 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4305
+2025-04-13 13:33:07,745 - INFO - Found 8 tables
+2025-04-13 13:33:07,746 - INFO - Using date: 2025-04-02
+2025-04-13 13:33:07,765 - INFO - Appended 160 rows
+2025-04-13 13:33:07,766 - INFO - Processing link 14/100
+2025-04-13 13:33:07,766 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4304
+2025-04-13 13:33:12,935 - INFO - Found 8 tables
+2025-04-13 13:33:12,936 - INFO - Using date: 2025-04-01
+2025-04-13 13:33:12,956 - INFO - Appended 117 rows
+2025-04-13 13:33:12,957 - INFO - Processing link 15/100
+2025-04-13 13:33:12,957 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4303
+2025-04-13 13:33:16,078 - INFO - Found 8 tables
+2025-04-13 13:33:16,079 - INFO - Using date: 2025-03-31
+2025-04-13 13:33:16,096 - INFO - Appended 67 rows
+2025-04-13 13:33:16,097 - INFO - Processing link 16/100
+2025-04-13 13:33:16,097 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4302
+2025-04-13 13:33:20,116 - INFO - Found 8 tables
+2025-04-13 13:33:20,116 - INFO - Using date: 2025-03-30
+2025-04-13 13:33:20,139 - INFO - Appended 161 rows
+2025-04-13 13:33:20,140 - INFO - Processing link 17/100
+2025-04-13 13:33:20,140 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4301
+2025-04-13 13:33:24,809 - INFO - Found 8 tables
+2025-04-13 13:33:24,809 - INFO - Using date: 2025-03-29
+2025-04-13 13:33:24,844 - INFO - Appended 164 rows
+2025-04-13 13:33:24,846 - INFO - Processing link 18/100
+2025-04-13 13:33:24,846 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4300
+2025-04-13 13:33:28,790 - INFO - Found 8 tables
+2025-04-13 13:33:28,790 - INFO - Using date: 2025-03-28
+2025-04-13 13:33:28,832 - INFO - Appended 162 rows
+2025-04-13 13:33:28,834 - INFO - Processing link 19/100
+2025-04-13 13:33:28,834 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4299
+2025-04-13 13:33:32,572 - INFO - Found 8 tables
+2025-04-13 13:33:32,572 - INFO - Using date: 2025-03-27
+2025-04-13 13:33:32,602 - INFO - Appended 165 rows
+2025-04-13 13:33:32,603 - INFO - Processing link 20/100
+2025-04-13 13:33:32,604 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4298
+2025-04-13 13:33:35,714 - INFO - Found 8 tables
+2025-04-13 13:33:35,715 - INFO - Using date: 2025-03-26
+2025-04-13 13:33:35,756 - INFO - Appended 164 rows
+2025-04-13 13:33:35,757 - INFO - Processing link 21/100
+2025-04-13 13:33:35,757 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4297
+2025-04-13 13:33:38,958 - INFO - Found 8 tables
+2025-04-13 13:33:38,959 - INFO - Using date: 2025-03-25
+2025-04-13 13:33:39,035 - INFO - Appended 117 rows
+2025-04-13 13:33:39,036 - INFO - Processing link 22/100
+2025-04-13 13:33:39,037 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4296
+2025-04-13 13:33:42,435 - INFO - Found 8 tables
+2025-04-13 13:33:42,436 - INFO - Using date: 2025-03-24
+2025-04-13 13:33:42,461 - INFO - Appended 78 rows
+2025-04-13 13:33:42,462 - INFO - Processing link 23/100
+2025-04-13 13:33:42,463 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4295
+2025-04-13 13:33:44,668 - INFO - Found 8 tables
+2025-04-13 13:33:44,668 - INFO - Using date: 2025-03-23
+2025-04-13 13:33:44,691 - INFO - Appended 161 rows
+2025-04-13 13:33:44,694 - INFO - Processing link 24/100
+2025-04-13 13:33:44,694 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4294
+2025-04-13 13:33:49,504 - INFO - Found 8 tables
+2025-04-13 13:33:49,505 - INFO - Using date: 2025-03-22
+2025-04-13 13:33:49,553 - INFO - Appended 167 rows
+2025-04-13 13:33:49,555 - INFO - Processing link 25/100
+2025-04-13 13:33:49,555 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4293
+2025-04-13 13:33:51,343 - INFO - Found 8 tables
+2025-04-13 13:33:51,344 - INFO - Using date: 2025-03-21
+2025-04-13 13:33:51,385 - INFO - Appended 159 rows
+2025-04-13 13:33:51,386 - INFO - Processing link 26/100
+2025-04-13 13:33:51,386 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4292
+2025-04-13 13:33:53,173 - INFO - Found 8 tables
+2025-04-13 13:33:53,174 - INFO - Using date: 2025-03-20
+2025-04-13 13:33:53,204 - INFO - Appended 163 rows
+2025-04-13 13:33:53,205 - INFO - Processing link 27/100
+2025-04-13 13:33:53,205 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4291
+2025-04-13 13:33:58,902 - INFO - Found 8 tables
+2025-04-13 13:33:58,903 - INFO - Using date: 2025-03-19
+2025-04-13 13:33:58,940 - INFO - Appended 162 rows
+2025-04-13 13:33:58,941 - INFO - Processing link 28/100
+2025-04-13 13:33:58,942 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4290
+2025-04-13 13:34:02,527 - INFO - Found 8 tables
+2025-04-13 13:34:02,527 - INFO - Using date: 2025-03-18
+2025-04-13 13:34:02,570 - INFO - Appended 118 rows
+2025-04-13 13:34:02,572 - INFO - Processing link 29/100
+2025-04-13 13:34:02,572 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4289
+2025-04-13 13:34:06,166 - INFO - Found 8 tables
+2025-04-13 13:34:06,167 - INFO - Using date: 2025-03-17
+2025-04-13 13:34:06,196 - INFO - Appended 78 rows
+2025-04-13 13:34:06,197 - INFO - Processing link 30/100
+2025-04-13 13:34:06,197 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4286
+2025-04-13 13:34:11,659 - INFO - Found 8 tables
+2025-04-13 13:34:11,660 - INFO - Using date: 2025-03-16
+2025-04-13 13:34:11,700 - INFO - Appended 132 rows
+2025-04-13 13:34:11,701 - INFO - Processing link 31/100
+2025-04-13 13:34:11,701 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4285
+2025-04-13 13:34:16,521 - INFO - Found 8 tables
+2025-04-13 13:34:16,522 - INFO - Using date: 2025-03-15
+2025-04-13 13:34:16,551 - INFO - Appended 166 rows
+2025-04-13 13:34:16,552 - INFO - Processing link 32/100
+2025-04-13 13:34:16,552 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4284
+2025-04-13 13:34:18,234 - INFO - Found 8 tables
+2025-04-13 13:34:18,234 - INFO - Using date: 2025-03-14
+2025-04-13 13:34:18,277 - INFO - Appended 166 rows
+2025-04-13 13:34:18,278 - INFO - Processing link 33/100
+2025-04-13 13:34:18,278 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4283
+2025-04-13 13:34:21,762 - INFO - Found 8 tables
+2025-04-13 13:34:21,763 - INFO - Using date: 2025-03-13
+2025-04-13 13:34:21,794 - INFO - Appended 167 rows
+2025-04-13 13:34:21,795 - INFO - Processing link 34/100
+2025-04-13 13:34:21,796 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4282
+2025-04-13 13:34:25,867 - INFO - Found 8 tables
+2025-04-13 13:34:25,868 - INFO - Using date: 2025-03-12
+2025-04-13 13:34:25,907 - INFO - Appended 164 rows
+2025-04-13 13:34:25,908 - INFO - Processing link 35/100
+2025-04-13 13:34:25,908 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4281
+2025-04-13 13:34:30,199 - INFO - Found 8 tables
+2025-04-13 13:34:30,200 - INFO - Using date: 2025-03-11
+2025-04-13 13:34:30,237 - INFO - Appended 122 rows
+2025-04-13 13:34:30,238 - INFO - Processing link 36/100
+2025-04-13 13:34:30,239 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4280
+2025-04-13 13:34:33,497 - INFO - Found 8 tables
+2025-04-13 13:34:33,498 - INFO - Using date: 2025-03-10
+2025-04-13 13:34:33,520 - INFO - Appended 78 rows
+2025-04-13 13:34:33,522 - INFO - Processing link 37/100
+2025-04-13 13:34:33,522 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4279
+2025-04-13 13:34:36,714 - INFO - Found 8 tables
+2025-04-13 13:34:36,714 - INFO - Using date: 2025-03-09
+2025-04-13 13:34:36,746 - INFO - Appended 168 rows
+2025-04-13 13:34:36,747 - INFO - Processing link 38/100
+2025-04-13 13:34:36,748 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4278
+2025-04-13 13:34:40,451 - INFO - Found 8 tables
+2025-04-13 13:34:40,451 - INFO - Using date: 2025-03-08
+2025-04-13 13:34:40,490 - INFO - Appended 163 rows
+2025-04-13 13:34:40,491 - INFO - Processing link 39/100
+2025-04-13 13:34:40,492 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4277
+2025-04-13 13:34:44,644 - INFO - Found 8 tables
+2025-04-13 13:34:44,644 - INFO - Using date: 2025-03-07
+2025-04-13 13:34:44,691 - INFO - Appended 161 rows
+2025-04-13 13:34:44,692 - INFO - Processing link 40/100
+2025-04-13 13:34:44,693 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4276
+2025-04-13 13:34:49,664 - INFO - Found 8 tables
+2025-04-13 13:34:49,665 - INFO - Using date: 2025-03-06
+2025-04-13 13:34:49,706 - INFO - Appended 162 rows
+2025-04-13 13:34:49,707 - INFO - Processing link 41/100
+2025-04-13 13:34:49,707 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4274
+2025-04-13 13:34:51,375 - INFO - Found 8 tables
+2025-04-13 13:34:51,375 - INFO - Using date: 2025-03-05
+2025-04-13 13:34:51,414 - INFO - Appended 119 rows
+2025-04-13 13:34:51,415 - INFO - Processing link 42/100
+2025-04-13 13:34:51,416 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4273
+2025-04-13 13:34:54,892 - INFO - Found 8 tables
+2025-04-13 13:34:54,893 - INFO - Using date: 2025-03-04
+2025-04-13 13:34:54,930 - INFO - Appended 78 rows
+2025-04-13 13:34:54,931 - INFO - Processing link 43/100
+2025-04-13 13:34:54,931 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4272
+2025-04-13 13:35:00,977 - INFO - Found 8 tables
+2025-04-13 13:35:00,977 - INFO - Using date: 2025-03-03
+2025-04-13 13:35:01,010 - INFO - Appended 165 rows
+2025-04-13 13:35:01,011 - INFO - Processing link 44/100
+2025-04-13 13:35:01,011 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4271
+2025-04-13 13:35:05,001 - INFO - Found 8 tables
+2025-04-13 13:35:05,001 - INFO - Using date: 2025-03-02
+2025-04-13 13:35:05,024 - INFO - Appended 165 rows
+2025-04-13 13:35:05,025 - INFO - Processing link 45/100
+2025-04-13 13:35:05,025 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4270
+2025-04-13 13:35:07,497 - INFO - Found 8 tables
+2025-04-13 13:35:07,498 - INFO - Using date: 2025-03-01
+2025-04-13 13:35:07,518 - INFO - Appended 165 rows
+2025-04-13 13:35:07,519 - INFO - Processing link 46/100
+2025-04-13 13:35:07,519 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4269
+2025-04-13 13:35:10,045 - INFO - Found 8 tables
+2025-04-13 13:35:10,046 - INFO - Using date: 2025-02-28
+2025-04-13 13:35:10,066 - INFO - Appended 164 rows
+2025-04-13 13:35:10,067 - INFO - Processing link 47/100
+2025-04-13 13:35:10,067 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4268
+2025-04-13 13:35:11,924 - INFO - Found 8 tables
+2025-04-13 13:35:11,925 - INFO - Using date: 2025-02-27
+2025-04-13 13:35:11,945 - INFO - Appended 162 rows
+2025-04-13 13:35:11,946 - INFO - Processing link 48/100
+2025-04-13 13:35:11,946 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4267
+2025-04-13 13:35:13,951 - INFO - Found 8 tables
+2025-04-13 13:35:13,952 - INFO - Using date: 2025-02-26
+2025-04-13 13:35:13,971 - INFO - Appended 119 rows
+2025-04-13 13:35:13,972 - INFO - Processing link 49/100
+2025-04-13 13:35:13,972 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4266
+2025-04-13 13:35:17,410 - INFO - Found 8 tables
+2025-04-13 13:35:17,411 - INFO - Using date: 2025-02-25
+2025-04-13 13:35:17,427 - INFO - Appended 77 rows
+2025-04-13 13:35:17,428 - INFO - Processing link 50/100
+2025-04-13 13:35:17,428 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4265
+2025-04-13 13:35:20,807 - INFO - Found 8 tables
+2025-04-13 13:35:20,808 - INFO - Using date: 2025-02-24
+2025-04-13 13:35:20,827 - INFO - Appended 163 rows
+2025-04-13 13:35:20,834 - INFO - Processing link 51/100
+2025-04-13 13:35:20,834 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4264
+2025-04-13 13:35:23,659 - INFO - Found 8 tables
+2025-04-13 13:35:23,660 - INFO - Using date: 2025-02-23
+2025-04-13 13:35:23,679 - INFO - Appended 165 rows
+2025-04-13 13:35:23,680 - INFO - Processing link 52/100
+2025-04-13 13:35:23,681 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4263
+2025-04-13 13:35:27,411 - INFO - Found 8 tables
+2025-04-13 13:35:27,411 - INFO - Using date: 2025-02-22
+2025-04-13 13:35:27,430 - INFO - Appended 111 rows
+2025-04-13 13:35:27,431 - INFO - Processing link 53/100
+2025-04-13 13:35:27,431 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4262
+2025-04-13 13:35:29,052 - INFO - Found 8 tables
+2025-04-13 13:35:29,053 - INFO - Using date: 2025-02-21
+2025-04-13 13:35:29,074 - INFO - Appended 164 rows
+2025-04-13 13:35:29,075 - INFO - Processing link 54/100
+2025-04-13 13:35:29,075 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4261
+2025-04-13 13:35:30,725 - INFO - Found 8 tables
+2025-04-13 13:35:30,726 - INFO - Using date: 2025-02-20
+2025-04-13 13:35:30,745 - INFO - Appended 165 rows
+2025-04-13 13:35:30,746 - INFO - Processing link 55/100
+2025-04-13 13:35:30,746 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4260
+2025-04-13 13:35:34,815 - INFO - Found 8 tables
+2025-04-13 13:35:34,816 - INFO - Using date: 2025-02-19
+2025-04-13 13:35:34,834 - INFO - Appended 119 rows
+2025-04-13 13:35:34,836 - INFO - Processing link 56/100
+2025-04-13 13:35:34,836 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4259
+2025-04-13 13:35:38,299 - INFO - Found 8 tables
+2025-04-13 13:35:38,300 - INFO - Using date: 2025-02-18
+2025-04-13 13:35:38,316 - INFO - Appended 77 rows
+2025-04-13 13:35:38,317 - INFO - Processing link 57/100
+2025-04-13 13:35:38,317 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4258
+2025-04-13 13:35:42,292 - INFO - Found 8 tables
+2025-04-13 13:35:42,292 - INFO - Using date: 2025-02-17
+2025-04-13 13:35:42,312 - INFO - Appended 165 rows
+2025-04-13 13:35:42,313 - INFO - Processing link 58/100
+2025-04-13 13:35:42,314 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4257
+2025-04-13 13:35:43,938 - INFO - Found 8 tables
+2025-04-13 13:35:43,939 - INFO - Using date: 2025-02-16
+2025-04-13 13:35:43,957 - INFO - Appended 163 rows
+2025-04-13 13:35:43,958 - INFO - Processing link 59/100
+2025-04-13 13:35:43,958 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4235
+2025-04-13 13:35:47,144 - INFO - Found 8 tables
+2025-04-13 13:35:47,145 - INFO - Using date: 2025-02-15
+2025-04-13 13:35:47,166 - INFO - Appended 159 rows
+2025-04-13 13:35:47,167 - INFO - Processing link 60/100
+2025-04-13 13:35:47,167 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4234
+2025-04-13 13:35:50,175 - INFO - Found 8 tables
+2025-04-13 13:35:50,175 - INFO - Using date: 2025-02-14
+2025-04-13 13:35:50,197 - INFO - Appended 160 rows
+2025-04-13 13:35:50,198 - INFO - Processing link 61/100
+2025-04-13 13:35:50,198 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4233
+2025-04-13 13:35:52,471 - INFO - Found 8 tables
+2025-04-13 13:35:52,471 - INFO - Using date: 2025-02-13
+2025-04-13 13:35:52,491 - INFO - Appended 90 rows
+2025-04-13 13:35:52,492 - INFO - Processing link 62/100
+2025-04-13 13:35:52,492 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4232
+2025-04-13 13:35:54,713 - INFO - Found 8 tables
+2025-04-13 13:35:54,713 - INFO - Using date: 2025-02-12
+2025-04-13 13:35:54,732 - INFO - Appended 77 rows
+2025-04-13 13:35:54,733 - INFO - Processing link 63/100
+2025-04-13 13:35:54,733 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4231
+2025-04-13 13:35:56,404 - INFO - Found 8 tables
+2025-04-13 13:35:56,404 - INFO - Using date: 2025-02-11
+2025-04-13 13:35:56,424 - INFO - Appended 166 rows
+2025-04-13 13:35:56,426 - INFO - Processing link 64/100
+2025-04-13 13:35:56,426 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4230
+2025-04-13 13:35:58,549 - INFO - Found 8 tables
+2025-04-13 13:35:58,549 - INFO - Using date: 2025-02-10
+2025-04-13 13:35:58,570 - INFO - Appended 164 rows
+2025-04-13 13:35:58,572 - INFO - Processing link 65/100
+2025-04-13 13:35:58,573 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4229
+2025-04-13 13:36:02,053 - INFO - Found 8 tables
+2025-04-13 13:36:02,054 - INFO - Using date: 2025-02-09
+2025-04-13 13:36:02,073 - INFO - Appended 164 rows
+2025-04-13 13:36:02,074 - INFO - Processing link 66/100
+2025-04-13 13:36:02,075 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4228
+2025-04-13 13:36:07,288 - INFO - Found 8 tables
+2025-04-13 13:36:07,288 - INFO - Using date: 2025-02-08
+2025-04-13 13:36:07,307 - INFO - Appended 166 rows
+2025-04-13 13:36:07,308 - INFO - Processing link 67/100
+2025-04-13 13:36:07,309 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4227
+2025-04-13 13:36:10,148 - INFO - Found 8 tables
+2025-04-13 13:36:10,149 - INFO - Using date: 2025-02-07
+2025-04-13 13:36:10,169 - INFO - Appended 161 rows
+2025-04-13 13:36:10,171 - INFO - Processing link 68/100
+2025-04-13 13:36:10,171 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4226
+2025-04-13 13:36:15,623 - INFO - Found 8 tables
+2025-04-13 13:36:15,623 - INFO - Using date: 2025-02-06
+2025-04-13 13:36:15,642 - INFO - Appended 120 rows
+2025-04-13 13:36:15,643 - INFO - Processing link 69/100
+2025-04-13 13:36:15,644 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4225
+2025-04-13 13:36:22,242 - INFO - Found 8 tables
+2025-04-13 13:36:22,243 - INFO - Using date: 2025-02-05
+2025-04-13 13:36:22,260 - INFO - Appended 77 rows
+2025-04-13 13:36:22,261 - INFO - Processing link 70/100
+2025-04-13 13:36:22,262 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4224
+2025-04-13 13:36:23,958 - INFO - Found 8 tables
+2025-04-13 13:36:23,959 - INFO - Using date: 2025-02-04
+2025-04-13 13:36:23,980 - INFO - Appended 164 rows
+2025-04-13 13:36:23,981 - INFO - Processing link 71/100
+2025-04-13 13:36:23,982 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4223
+2025-04-13 13:36:26,917 - INFO - Found 8 tables
+2025-04-13 13:36:26,918 - INFO - Using date: 2025-02-03
+2025-04-13 13:36:26,938 - INFO - Appended 167 rows
+2025-04-13 13:36:26,939 - INFO - Processing link 72/100
+2025-04-13 13:36:26,939 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4222
+2025-04-13 13:36:30,043 - INFO - Found 8 tables
+2025-04-13 13:36:30,043 - INFO - Using date: 2025-02-02
+2025-04-13 13:36:30,063 - INFO - Appended 163 rows
+2025-04-13 13:36:30,064 - INFO - Processing link 73/100
+2025-04-13 13:36:30,064 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4221
+2025-04-13 13:36:33,401 - INFO - Found 8 tables
+2025-04-13 13:36:33,401 - INFO - Using date: 2025-02-01
+2025-04-13 13:36:33,421 - INFO - Appended 160 rows
+2025-04-13 13:36:33,423 - INFO - Processing link 74/100
+2025-04-13 13:36:33,423 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4219
+2025-04-13 13:36:35,015 - INFO - Found 8 tables
+2025-04-13 13:36:35,016 - INFO - Using date: 2025-01-31
+2025-04-13 13:36:35,033 - INFO - Appended 77 rows
+2025-04-13 13:36:35,034 - INFO - Processing link 75/100
+2025-04-13 13:36:35,035 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4218
+2025-04-13 13:36:38,408 - INFO - Found 8 tables
+2025-04-13 13:36:38,409 - INFO - Using date: 2025-01-30
+2025-04-13 13:36:38,427 - INFO - Appended 165 rows
+2025-04-13 13:36:38,428 - INFO - Processing link 76/100
+2025-04-13 13:36:38,429 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4217
+2025-04-13 13:36:41,993 - INFO - Found 8 tables
+2025-04-13 13:36:41,994 - INFO - Using date: 2025-01-29
+2025-04-13 13:36:42,015 - INFO - Appended 170 rows
+2025-04-13 13:36:42,016 - INFO - Processing link 77/100
+2025-04-13 13:36:42,016 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4216
+2025-04-13 13:36:45,188 - INFO - Found 8 tables
+2025-04-13 13:36:45,189 - INFO - Using date: 2025-01-28
+2025-04-13 13:36:45,210 - INFO - Appended 160 rows
+2025-04-13 13:36:45,210 - INFO - Processing link 78/100
+2025-04-13 13:36:45,211 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4212
+2025-04-13 13:36:48,525 - INFO - Found 8 tables
+2025-04-13 13:36:48,526 - INFO - Using date: 2025-01-27
+2025-04-13 13:36:48,545 - INFO - Appended 76 rows
+2025-04-13 13:36:48,547 - INFO - Processing link 79/100
+2025-04-13 13:36:48,547 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4211
+2025-04-13 13:36:51,962 - INFO - Found 8 tables
+2025-04-13 13:36:51,962 - INFO - Using date: 2025-01-26
+2025-04-13 13:36:51,983 - INFO - Appended 167 rows
+2025-04-13 13:36:51,984 - INFO - Processing link 80/100
+2025-04-13 13:36:51,985 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4210
+2025-04-13 13:36:54,895 - INFO - Found 8 tables
+2025-04-13 13:36:54,896 - INFO - Using date: 2025-01-25
+2025-04-13 13:36:54,916 - INFO - Appended 168 rows
+2025-04-13 13:36:54,917 - INFO - Processing link 81/100
+2025-04-13 13:36:54,917 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4209
+2025-04-13 13:36:57,148 - INFO - Found 8 tables
+2025-04-13 13:36:57,148 - INFO - Using date: 2025-01-24
+2025-04-13 13:36:57,168 - INFO - Appended 159 rows
+2025-04-13 13:36:57,169 - INFO - Processing link 82/100
+2025-04-13 13:36:57,169 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4208
+2025-04-13 13:36:58,792 - INFO - Found 8 tables
+2025-04-13 13:36:58,793 - INFO - Using date: 2025-01-23
+2025-04-13 13:36:58,813 - INFO - Appended 161 rows
+2025-04-13 13:36:58,814 - INFO - Processing link 83/100
+2025-04-13 13:36:58,815 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4207
+2025-04-13 13:37:02,021 - INFO - Found 8 tables
+2025-04-13 13:37:02,022 - INFO - Using date: 2025-01-22
+2025-04-13 13:37:02,041 - INFO - Appended 157 rows
+2025-04-13 13:37:02,042 - INFO - Processing link 84/100
+2025-04-13 13:37:02,042 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4206
+2025-04-13 13:37:07,137 - INFO - Found 8 tables
+2025-04-13 13:37:07,137 - INFO - Using date: 2025-01-21
+2025-04-13 13:37:07,155 - INFO - Appended 116 rows
+2025-04-13 13:37:07,156 - INFO - Processing link 85/100
+2025-04-13 13:37:07,156 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4205
+2025-04-13 13:37:08,832 - INFO - Found 8 tables
+2025-04-13 13:37:08,833 - INFO - Using date: 2025-01-20
+2025-04-13 13:37:08,852 - INFO - Appended 162 rows
+2025-04-13 13:37:08,853 - INFO - Processing link 86/100
+2025-04-13 13:37:08,853 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4204
+2025-04-13 13:37:11,969 - INFO - Found 8 tables
+2025-04-13 13:37:11,969 - INFO - Using date: 2025-01-19
+2025-04-13 13:37:11,990 - INFO - Appended 168 rows
+2025-04-13 13:37:11,991 - INFO - Processing link 87/100
+2025-04-13 13:37:11,991 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4203
+2025-04-13 13:37:16,620 - INFO - Found 8 tables
+2025-04-13 13:37:16,620 - INFO - Using date: 2025-01-18
+2025-04-13 13:37:16,639 - INFO - Appended 157 rows
+2025-04-13 13:37:16,640 - INFO - Processing link 88/100
+2025-04-13 13:37:16,640 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4202
+2025-04-13 13:37:18,942 - INFO - Found 8 tables
+2025-04-13 13:37:18,942 - INFO - Using date: 2025-01-17
+2025-04-13 13:37:18,964 - INFO - Appended 162 rows
+2025-04-13 13:37:18,965 - INFO - Processing link 89/100
+2025-04-13 13:37:18,966 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4201
+2025-04-13 13:37:20,704 - INFO - Found 8 tables
+2025-04-13 13:37:20,705 - INFO - Using date: 2025-01-16
+2025-04-13 13:37:20,723 - INFO - Appended 157 rows
+2025-04-13 13:37:20,724 - INFO - Processing link 90/100
+2025-04-13 13:37:20,724 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4200
+2025-04-13 13:37:25,825 - INFO - Found 8 tables
+2025-04-13 13:37:25,826 - INFO - Using date: 2025-01-15
+2025-04-13 13:37:25,845 - INFO - Appended 116 rows
+2025-04-13 13:37:25,846 - INFO - Processing link 91/100
+2025-04-13 13:37:25,846 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4199
+2025-04-13 13:37:28,985 - INFO - Found 8 tables
+2025-04-13 13:37:28,986 - INFO - Using date: 2025-01-14
+2025-04-13 13:37:29,003 - INFO - Appended 75 rows
+2025-04-13 13:37:29,005 - INFO - Processing link 92/100
+2025-04-13 13:37:29,006 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4198
+2025-04-13 13:37:31,580 - INFO - Found 8 tables
+2025-04-13 13:37:31,581 - INFO - Using date: 2025-01-13
+2025-04-13 13:37:31,604 - INFO - Appended 161 rows
+2025-04-13 13:37:31,605 - INFO - Processing link 93/100
+2025-04-13 13:37:31,606 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4197
+2025-04-13 13:37:35,129 - INFO - Found 8 tables
+2025-04-13 13:37:35,129 - INFO - Using date: 2025-01-12
+2025-04-13 13:37:35,150 - INFO - Appended 160 rows
+2025-04-13 13:37:35,151 - INFO - Processing link 94/100
+2025-04-13 13:37:35,151 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4196
+2025-04-13 13:37:39,297 - INFO - Found 8 tables
+2025-04-13 13:37:39,298 - INFO - Using date: 2025-01-11
+2025-04-13 13:37:39,316 - INFO - Appended 159 rows
+2025-04-13 13:37:39,317 - INFO - Processing link 95/100
+2025-04-13 13:37:39,317 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4195
+2025-04-13 13:37:42,431 - INFO - Found 8 tables
+2025-04-13 13:37:42,432 - INFO - Using date: 2025-01-10
+2025-04-13 13:37:42,452 - INFO - Appended 158 rows
+2025-04-13 13:37:42,454 - INFO - Processing link 96/100
+2025-04-13 13:37:42,454 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4194
+2025-04-13 13:37:46,029 - INFO - Found 8 tables
+2025-04-13 13:37:46,030 - INFO - Using date: 2025-01-09
+2025-04-13 13:37:46,048 - INFO - Appended 162 rows
+2025-04-13 13:37:46,049 - INFO - Processing link 97/100
+2025-04-13 13:37:46,050 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4193
+2025-04-13 13:37:49,506 - INFO - Found 8 tables
+2025-04-13 13:37:49,506 - INFO - Using date: 2025-01-08
+2025-04-13 13:37:49,528 - INFO - Appended 163 rows
+2025-04-13 13:37:49,529 - INFO - Processing link 98/100
+2025-04-13 13:37:49,530 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4192
+2025-04-13 13:37:53,698 - INFO - Found 8 tables
+2025-04-13 13:37:53,698 - INFO - Using date: 2025-01-07
+2025-04-13 13:37:53,717 - INFO - Appended 119 rows
+2025-04-13 13:37:53,718 - INFO - Processing link 99/100
+2025-04-13 13:37:53,719 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4191
+2025-04-13 13:37:56,685 - INFO - Found 8 tables
+2025-04-13 13:37:56,686 - INFO - Using date: 2025-01-06
+2025-04-13 13:37:56,703 - INFO - Appended 75 rows
+2025-04-13 13:37:56,704 - INFO - Processing link 100/100
+2025-04-13 13:37:56,704 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4190
+2025-04-13 13:38:00,555 - INFO - Found 8 tables
+2025-04-13 13:38:00,556 - INFO - Using date: 2025-01-05
+2025-04-13 13:38:00,661 - INFO - Appended 162 rows
+2025-04-13 13:38:00,662 - INFO - Scraping completed. Total rows collected: 14235
+2025-04-13 20:48:50,803 - INFO - Starting scraping process
+2025-04-13 20:48:50,804 - INFO - Deleted data.json
+2025-04-13 20:48:50,804 - INFO - Fetching links from main page
+2025-04-13 20:49:20,363 - INFO - Found 433 rate links
+2025-04-13 20:49:26,554 - INFO - Processing link 1/100
+2025-04-13 20:49:26,555 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4317
+2025-04-13 20:49:28,798 - INFO - Found 8 tables
+2025-04-13 20:49:28,799 - INFO - Using date: 2025-04-14
+2025-04-13 20:49:28,815 - INFO - Appended 84 rows
+2025-04-13 20:49:28,816 - INFO - Processing link 2/100
+2025-04-13 20:49:28,816 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4316
+2025-04-13 20:49:33,080 - INFO - Found 8 tables
+2025-04-13 20:49:33,080 - INFO - Using date: 2025-04-13
+2025-04-13 20:49:33,095 - INFO - Appended 49 rows
+2025-04-13 20:49:33,096 - INFO - Processing link 3/100
+2025-04-13 20:49:33,097 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4315
+2025-04-13 20:49:37,501 - INFO - Found 8 tables
+2025-04-13 20:49:37,502 - INFO - Using date: 2025-04-12
+2025-04-13 20:49:37,520 - INFO - Appended 155 rows
+2025-04-13 20:49:37,521 - INFO - Processing link 4/100
+2025-04-13 20:49:37,521 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4314
+2025-04-13 20:49:41,143 - INFO - Found 8 tables
+2025-04-13 20:49:41,143 - INFO - Using date: 2025-04-11
+2025-04-13 20:49:41,162 - INFO - Appended 159 rows
+2025-04-13 20:49:41,163 - INFO - Processing link 5/100
+2025-04-13 20:49:41,163 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4313
+2025-04-13 20:49:45,065 - INFO - Found 8 tables
+2025-04-13 20:49:45,065 - INFO - Using date: 2025-04-10
+2025-04-13 20:49:45,085 - INFO - Appended 162 rows
+2025-04-13 20:49:45,086 - INFO - Processing link 6/100
+2025-04-13 20:49:45,086 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4312
+2025-04-13 20:49:49,047 - INFO - Found 8 tables
+2025-04-13 20:49:49,047 - INFO - Using date: 2025-04-09
+2025-04-13 20:49:49,067 - INFO - Appended 168 rows
+2025-04-13 20:49:49,068 - INFO - Processing link 7/100
+2025-04-13 20:49:49,068 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4311
+2025-04-13 20:49:52,860 - INFO - Found 8 tables
+2025-04-13 20:49:52,860 - INFO - Using date: 2025-04-08
+2025-04-13 20:49:52,879 - INFO - Appended 157 rows
+2025-04-13 20:49:52,880 - INFO - Processing link 8/100
+2025-04-13 20:49:52,881 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4310
+2025-04-13 20:52:04,819 - INFO - Starting scraping process
+2025-04-13 20:52:04,819 - INFO - Fetching links from main page
+2025-04-13 20:52:40,829 - INFO - Found 433 rate links
+2025-04-13 20:52:47,064 - INFO - Processing link 1/100
+2025-04-13 20:52:47,064 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4317
+2025-04-13 20:52:50,153 - INFO - Found 8 tables
+2025-04-13 20:52:50,154 - INFO - Using date: 2025-04-14
+2025-04-13 20:52:50,180 - INFO - Appended 84 rows
+2025-04-13 20:52:50,181 - INFO - Processing link 2/100
+2025-04-13 20:52:50,181 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4316
+2025-04-13 20:52:53,513 - INFO - Found 8 tables
+2025-04-13 20:52:53,514 - INFO - Using date: 2025-04-13
+2025-04-13 20:52:53,529 - INFO - Appended 49 rows
+2025-04-13 20:52:53,530 - INFO - Processing link 3/100
+2025-04-13 20:52:53,530 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4315
+2025-04-13 20:52:56,892 - INFO - Found 8 tables
+2025-04-13 20:52:56,893 - INFO - Using date: 2025-04-12
+2025-04-13 20:52:56,910 - INFO - Appended 155 rows
+2025-04-13 20:52:56,911 - INFO - Processing link 4/100
+2025-04-13 20:52:56,911 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4314
+2025-04-13 20:53:00,292 - INFO - Found 8 tables
+2025-04-13 20:53:00,292 - INFO - Using date: 2025-04-11
+2025-04-13 20:53:00,312 - INFO - Appended 159 rows
+2025-04-13 20:53:00,313 - INFO - Processing link 5/100
+2025-04-13 20:53:00,313 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4313
+2025-04-13 20:53:03,448 - INFO - Found 8 tables
+2025-04-13 20:53:03,449 - INFO - Using date: 2025-04-10
+2025-04-13 20:53:03,468 - INFO - Appended 162 rows
+2025-04-13 20:53:03,469 - INFO - Processing link 6/100
+2025-04-13 20:53:03,469 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4312
+2025-04-13 20:53:06,943 - INFO - Found 8 tables
+2025-04-13 20:53:06,943 - INFO - Using date: 2025-04-09
+2025-04-13 20:53:06,961 - INFO - Appended 168 rows
+2025-04-13 20:53:06,962 - INFO - Processing link 7/100
+2025-04-13 20:53:06,962 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4311
+2025-04-13 20:53:09,856 - INFO - Found 8 tables
+2025-04-13 20:53:09,856 - INFO - Using date: 2025-04-08
+2025-04-13 20:53:09,875 - INFO - Appended 157 rows
+2025-04-13 20:53:09,876 - INFO - Processing link 8/100
+2025-04-13 20:53:09,876 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4310
+2025-04-13 20:53:13,112 - INFO - Found 8 tables
+2025-04-13 20:53:13,113 - INFO - Using date: 2025-04-07
+2025-04-13 20:53:13,129 - INFO - Appended 93 rows
+2025-04-13 20:53:13,130 - INFO - Processing link 9/100
+2025-04-13 20:53:13,130 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4309
+2025-04-13 20:53:16,231 - INFO - Found 8 tables
+2025-04-13 20:53:16,232 - INFO - Using date: 2025-04-06
+2025-04-13 20:53:16,251 - INFO - Appended 159 rows
+2025-04-13 20:53:16,252 - INFO - Processing link 10/100
+2025-04-13 20:53:16,252 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4308
+2025-04-13 20:53:17,873 - INFO - Found 8 tables
+2025-04-13 20:53:17,874 - INFO - Using date: 2025-04-05
+2025-04-13 20:53:17,894 - INFO - Appended 164 rows
+2025-04-13 20:53:17,895 - INFO - Processing link 11/100
+2025-04-13 20:53:17,895 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4307
+2025-04-13 20:53:19,591 - INFO - Found 8 tables
+2025-04-13 20:53:19,592 - INFO - Using date: 2025-04-04
+2025-04-13 20:53:19,610 - INFO - Appended 160 rows
+2025-04-13 20:53:19,611 - INFO - Processing link 12/100
+2025-04-13 20:53:19,611 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4306
+2025-04-13 20:53:22,800 - INFO - Found 8 tables
+2025-04-13 20:53:22,801 - INFO - Using date: 2025-04-03
+2025-04-13 20:53:22,820 - INFO - Appended 157 rows
+2025-04-13 20:53:22,821 - INFO - Processing link 13/100
+2025-04-13 20:53:22,821 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4305
+2025-04-13 20:53:25,695 - INFO - Found 8 tables
+2025-04-13 20:53:25,696 - INFO - Using date: 2025-04-02
+2025-04-13 20:53:25,714 - INFO - Appended 160 rows
+2025-04-13 20:53:25,715 - INFO - Processing link 14/100
+2025-04-13 20:53:25,716 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4304
+2025-04-13 20:53:29,106 - INFO - Found 8 tables
+2025-04-13 20:53:29,107 - INFO - Using date: 2025-04-01
+2025-04-13 20:53:29,123 - INFO - Appended 117 rows
+2025-04-13 20:53:29,124 - INFO - Processing link 15/100
+2025-04-13 20:53:29,124 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4303
+2025-04-13 20:53:30,749 - INFO - Found 8 tables
+2025-04-13 20:53:30,750 - INFO - Using date: 2025-03-31
+2025-04-13 20:53:30,771 - INFO - Appended 67 rows
+2025-04-13 20:53:30,772 - INFO - Processing link 16/100
+2025-04-13 20:53:30,772 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4302
+2025-04-13 20:53:32,382 - INFO - Found 8 tables
+2025-04-13 20:53:32,382 - INFO - Using date: 2025-03-30
+2025-04-13 20:53:32,403 - INFO - Appended 161 rows
+2025-04-13 20:53:32,404 - INFO - Processing link 17/100
+2025-04-13 20:53:32,404 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4301
+2025-04-13 20:53:35,893 - INFO - Found 8 tables
+2025-04-13 20:53:35,893 - INFO - Using date: 2025-03-29
+2025-04-13 20:53:35,912 - INFO - Appended 164 rows
+2025-04-13 20:53:35,913 - INFO - Processing link 18/100
+2025-04-13 20:53:35,913 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4300
+2025-04-13 20:53:37,541 - INFO - Found 8 tables
+2025-04-13 20:53:37,542 - INFO - Using date: 2025-03-28
+2025-04-13 20:53:37,560 - INFO - Appended 162 rows
+2025-04-13 20:53:37,562 - INFO - Processing link 19/100
+2025-04-13 20:53:37,562 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4299
+2025-04-13 20:53:42,417 - INFO - Found 8 tables
+2025-04-13 20:53:42,418 - INFO - Using date: 2025-03-27
+2025-04-13 20:53:42,438 - INFO - Appended 165 rows
+2025-04-13 20:53:42,439 - INFO - Processing link 20/100
+2025-04-13 20:53:42,439 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4298
+2025-04-13 20:53:45,710 - INFO - Found 8 tables
+2025-04-13 20:53:45,710 - INFO - Using date: 2025-03-26
+2025-04-13 20:53:45,733 - INFO - Appended 164 rows
+2025-04-13 20:53:45,734 - INFO - Processing link 21/100
+2025-04-13 20:53:45,734 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4297
+2025-04-13 20:53:48,796 - INFO - Found 8 tables
+2025-04-13 20:53:48,796 - INFO - Using date: 2025-03-25
+2025-04-13 20:53:48,816 - INFO - Appended 117 rows
+2025-04-13 20:53:48,816 - INFO - Processing link 22/100
+2025-04-13 20:53:48,817 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4296
+2025-04-13 20:53:52,201 - INFO - Found 8 tables
+2025-04-13 20:53:52,201 - INFO - Using date: 2025-03-24
+2025-04-13 20:53:52,219 - INFO - Appended 78 rows
+2025-04-13 20:53:52,220 - INFO - Processing link 23/100
+2025-04-13 20:53:52,220 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4295
+2025-04-13 20:53:55,305 - INFO - Found 8 tables
+2025-04-13 20:53:55,306 - INFO - Using date: 2025-03-23
+2025-04-13 20:53:55,324 - INFO - Appended 161 rows
+2025-04-13 20:53:55,325 - INFO - Processing link 24/100
+2025-04-13 20:53:55,326 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4294
+2025-04-13 20:53:56,958 - INFO - Found 8 tables
+2025-04-13 20:53:56,958 - INFO - Using date: 2025-03-22
+2025-04-13 20:53:56,976 - INFO - Appended 167 rows
+2025-04-13 20:53:56,977 - INFO - Processing link 25/100
+2025-04-13 20:53:56,978 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4293
+2025-04-13 20:54:00,386 - INFO - Found 8 tables
+2025-04-13 20:54:00,387 - INFO - Using date: 2025-03-21
+2025-04-13 20:54:00,406 - INFO - Appended 159 rows
+2025-04-13 20:54:00,407 - INFO - Processing link 26/100
+2025-04-13 20:54:00,407 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4292
+2025-04-13 20:54:03,616 - INFO - Found 8 tables
+2025-04-13 20:54:03,617 - INFO - Using date: 2025-03-20
+2025-04-13 20:54:03,634 - INFO - Appended 163 rows
+2025-04-13 20:54:03,635 - INFO - Processing link 27/100
+2025-04-13 20:54:03,635 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4291
+2025-04-13 20:54:05,319 - INFO - Found 8 tables
+2025-04-13 20:54:05,319 - INFO - Using date: 2025-03-19
+2025-04-13 20:54:05,337 - INFO - Appended 162 rows
+2025-04-13 20:54:05,338 - INFO - Processing link 28/100
+2025-04-13 20:54:05,338 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4290
+2025-04-13 20:54:08,758 - INFO - Found 8 tables
+2025-04-13 20:54:08,759 - INFO - Using date: 2025-03-18
+2025-04-13 20:54:08,776 - INFO - Appended 118 rows
+2025-04-13 20:54:08,776 - INFO - Processing link 29/100
+2025-04-13 20:54:08,777 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4289
+2025-04-13 20:54:13,316 - INFO - Found 8 tables
+2025-04-13 20:54:13,316 - INFO - Using date: 2025-03-17
+2025-04-13 20:54:13,335 - INFO - Appended 78 rows
+2025-04-13 20:54:13,336 - INFO - Processing link 30/100
+2025-04-13 20:54:13,336 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4286
+2025-04-13 20:54:16,514 - INFO - Found 8 tables
+2025-04-13 20:54:16,515 - INFO - Using date: 2025-03-16
+2025-04-13 20:54:16,532 - INFO - Appended 132 rows
+2025-04-13 20:54:16,533 - INFO - Processing link 31/100
+2025-04-13 20:54:16,533 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4285
+2025-04-13 20:54:19,597 - INFO - Found 8 tables
+2025-04-13 20:54:19,598 - INFO - Using date: 2025-03-15
+2025-04-13 20:54:19,618 - INFO - Appended 166 rows
+2025-04-13 20:54:19,620 - INFO - Processing link 32/100
+2025-04-13 20:54:19,620 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4284
+2025-04-13 20:54:21,279 - INFO - Found 8 tables
+2025-04-13 20:54:21,280 - INFO - Using date: 2025-03-14
+2025-04-13 20:54:21,298 - INFO - Appended 166 rows
+2025-04-13 20:54:21,299 - INFO - Processing link 33/100
+2025-04-13 20:54:21,300 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4283
+2025-04-13 20:54:22,941 - INFO - Found 8 tables
+2025-04-13 20:54:22,941 - INFO - Using date: 2025-03-13
+2025-04-13 20:54:22,961 - INFO - Appended 167 rows
+2025-04-13 20:54:22,962 - INFO - Processing link 34/100
+2025-04-13 20:54:22,962 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4282
+2025-04-13 20:54:24,570 - INFO - Found 8 tables
+2025-04-13 20:54:24,571 - INFO - Using date: 2025-03-12
+2025-04-13 20:54:24,589 - INFO - Appended 164 rows
+2025-04-13 20:54:24,590 - INFO - Processing link 35/100
+2025-04-13 20:54:24,590 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4281
+2025-04-13 20:54:26,227 - INFO - Found 8 tables
+2025-04-13 20:54:26,227 - INFO - Using date: 2025-03-11
+2025-04-13 20:54:26,246 - INFO - Appended 122 rows
+2025-04-13 20:54:26,247 - INFO - Processing link 36/100
+2025-04-13 20:54:26,247 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4280
+2025-04-13 20:54:29,658 - INFO - Found 8 tables
+2025-04-13 20:54:29,659 - INFO - Using date: 2025-03-10
+2025-04-13 20:54:29,675 - INFO - Appended 78 rows
+2025-04-13 20:54:29,675 - INFO - Processing link 37/100
+2025-04-13 20:54:29,676 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4279
+2025-04-13 20:54:31,276 - INFO - Found 8 tables
+2025-04-13 20:54:31,276 - INFO - Using date: 2025-03-09
+2025-04-13 20:54:31,295 - INFO - Appended 168 rows
+2025-04-13 20:54:31,295 - INFO - Processing link 38/100
+2025-04-13 20:54:31,296 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4278
+2025-04-13 20:54:34,694 - INFO - Found 8 tables
+2025-04-13 20:54:34,695 - INFO - Using date: 2025-03-08
+2025-04-13 20:54:34,715 - INFO - Appended 163 rows
+2025-04-13 20:54:34,716 - INFO - Processing link 39/100
+2025-04-13 20:54:34,716 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4277
+2025-04-13 20:54:43,474 - INFO - Found 8 tables
+2025-04-13 20:54:43,475 - INFO - Using date: 2025-03-07
+2025-04-13 20:54:43,496 - INFO - Appended 161 rows
+2025-04-13 20:54:43,497 - INFO - Processing link 40/100
+2025-04-13 20:54:43,498 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4276
+2025-04-13 20:54:45,203 - INFO - Found 8 tables
+2025-04-13 20:54:45,204 - INFO - Using date: 2025-03-06
+2025-04-13 20:54:45,225 - INFO - Appended 162 rows
+2025-04-13 20:54:45,226 - INFO - Processing link 41/100
+2025-04-13 20:54:45,226 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4274
+2025-04-13 20:54:46,847 - INFO - Found 8 tables
+2025-04-13 20:54:46,847 - INFO - Using date: 2025-03-05
+2025-04-13 20:54:46,867 - INFO - Appended 119 rows
+2025-04-13 20:54:46,868 - INFO - Processing link 42/100
+2025-04-13 20:54:46,869 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4273
+2025-04-13 20:54:53,044 - INFO - Found 8 tables
+2025-04-13 20:54:53,045 - INFO - Using date: 2025-03-04
+2025-04-13 20:54:53,061 - INFO - Appended 78 rows
+2025-04-13 20:54:53,062 - INFO - Processing link 43/100
+2025-04-13 20:54:53,062 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4272
+2025-04-13 20:54:54,721 - INFO - Found 8 tables
+2025-04-13 20:54:54,721 - INFO - Using date: 2025-03-03
+2025-04-13 20:54:54,741 - INFO - Appended 165 rows
+2025-04-13 20:54:54,742 - INFO - Processing link 44/100
+2025-04-13 20:54:54,742 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4271
+2025-04-13 20:54:56,373 - INFO - Found 8 tables
+2025-04-13 20:54:56,374 - INFO - Using date: 2025-03-02
+2025-04-13 20:54:56,394 - INFO - Appended 165 rows
+2025-04-13 20:54:56,395 - INFO - Processing link 45/100
+2025-04-13 20:54:56,395 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4270
+2025-04-13 20:55:00,146 - INFO - Found 8 tables
+2025-04-13 20:55:00,147 - INFO - Using date: 2025-03-01
+2025-04-13 20:55:00,167 - INFO - Appended 165 rows
+2025-04-13 20:55:00,167 - INFO - Processing link 46/100
+2025-04-13 20:55:00,168 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4269
+2025-04-13 20:55:04,459 - INFO - Found 8 tables
+2025-04-13 20:55:04,460 - INFO - Using date: 2025-02-28
+2025-04-13 20:55:04,480 - INFO - Appended 164 rows
+2025-04-13 20:55:04,481 - INFO - Processing link 47/100
+2025-04-13 20:55:04,481 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4268
+2025-04-13 20:55:06,143 - INFO - Found 8 tables
+2025-04-13 20:55:06,144 - INFO - Using date: 2025-02-27
+2025-04-13 20:55:06,163 - INFO - Appended 162 rows
+2025-04-13 20:55:06,164 - INFO - Processing link 48/100
+2025-04-13 20:55:06,164 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4267
+2025-04-13 20:55:09,083 - INFO - Found 8 tables
+2025-04-13 20:55:09,083 - INFO - Using date: 2025-02-26
+2025-04-13 20:55:09,100 - INFO - Appended 119 rows
+2025-04-13 20:55:09,101 - INFO - Processing link 49/100
+2025-04-13 20:55:09,101 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4266
+2025-04-13 20:55:11,955 - INFO - Found 8 tables
+2025-04-13 20:55:11,956 - INFO - Using date: 2025-02-25
+2025-04-13 20:55:11,972 - INFO - Appended 77 rows
+2025-04-13 20:55:11,973 - INFO - Processing link 50/100
+2025-04-13 20:55:11,973 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4265
+2025-04-13 20:55:13,550 - INFO - Found 8 tables
+2025-04-13 20:55:13,551 - INFO - Using date: 2025-02-24
+2025-04-13 20:55:13,571 - INFO - Appended 163 rows
+2025-04-13 20:55:13,572 - INFO - Processing link 51/100
+2025-04-13 20:55:13,572 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4264
+2025-04-13 20:55:15,160 - INFO - Found 8 tables
+2025-04-13 20:55:15,161 - INFO - Using date: 2025-02-23
+2025-04-13 20:55:15,179 - INFO - Appended 165 rows
+2025-04-13 20:55:15,180 - INFO - Processing link 52/100
+2025-04-13 20:55:15,181 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4263
+2025-04-13 20:55:18,587 - INFO - Found 8 tables
+2025-04-13 20:55:18,587 - INFO - Using date: 2025-02-22
+2025-04-13 20:55:18,610 - INFO - Appended 111 rows
+2025-04-13 20:55:18,610 - INFO - Processing link 53/100
+2025-04-13 20:55:18,611 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4262
+2025-04-13 20:55:22,066 - INFO - Found 8 tables
+2025-04-13 20:55:22,066 - INFO - Using date: 2025-02-21
+2025-04-13 20:55:22,085 - INFO - Appended 164 rows
+2025-04-13 20:55:22,086 - INFO - Processing link 54/100
+2025-04-13 20:55:22,086 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4261
+2025-04-13 20:55:25,319 - INFO - Found 8 tables
+2025-04-13 20:55:25,319 - INFO - Using date: 2025-02-20
+2025-04-13 20:55:25,337 - INFO - Appended 165 rows
+2025-04-13 20:55:25,338 - INFO - Processing link 55/100
+2025-04-13 20:55:25,338 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4260
+2025-04-13 20:55:26,924 - INFO - Found 8 tables
+2025-04-13 20:55:26,924 - INFO - Using date: 2025-02-19
+2025-04-13 20:55:26,941 - INFO - Appended 119 rows
+2025-04-13 20:55:26,942 - INFO - Processing link 56/100
+2025-04-13 20:55:26,942 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4259
+2025-04-13 20:55:28,581 - INFO - Found 8 tables
+2025-04-13 20:55:28,582 - INFO - Using date: 2025-02-18
+2025-04-13 20:55:28,598 - INFO - Appended 77 rows
+2025-04-13 20:55:28,599 - INFO - Processing link 57/100
+2025-04-13 20:55:28,599 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4258
+2025-04-13 20:55:31,891 - INFO - Found 8 tables
+2025-04-13 20:55:31,892 - INFO - Using date: 2025-02-17
+2025-04-13 20:55:31,911 - INFO - Appended 165 rows
+2025-04-13 20:55:31,912 - INFO - Processing link 58/100
+2025-04-13 20:55:31,912 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4257
+2025-04-13 20:55:35,956 - INFO - Found 8 tables
+2025-04-13 20:55:35,957 - INFO - Using date: 2025-02-16
+2025-04-13 20:55:35,976 - INFO - Appended 163 rows
+2025-04-13 20:55:35,977 - INFO - Processing link 59/100
+2025-04-13 20:55:35,978 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4235
+2025-04-13 20:55:37,905 - INFO - Found 8 tables
+2025-04-13 20:55:37,906 - INFO - Using date: 2025-02-15
+2025-04-13 20:55:37,925 - INFO - Appended 159 rows
+2025-04-13 20:55:37,926 - INFO - Processing link 60/100
+2025-04-13 20:55:37,926 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4234
+2025-04-13 20:55:41,124 - INFO - Found 8 tables
+2025-04-13 20:55:41,124 - INFO - Using date: 2025-02-14
+2025-04-13 20:55:41,143 - INFO - Appended 160 rows
+2025-04-13 20:55:41,144 - INFO - Processing link 61/100
+2025-04-13 20:55:41,145 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4233
+2025-04-13 20:55:44,024 - INFO - Found 8 tables
+2025-04-13 20:55:44,024 - INFO - Using date: 2025-02-13
+2025-04-13 20:55:44,042 - INFO - Appended 90 rows
+2025-04-13 20:55:44,043 - INFO - Processing link 62/100
+2025-04-13 20:55:44,043 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4232
+2025-04-13 20:55:47,450 - INFO - Found 8 tables
+2025-04-13 20:55:47,450 - INFO - Using date: 2025-02-12
+2025-04-13 20:55:47,468 - INFO - Appended 77 rows
+2025-04-13 20:55:47,469 - INFO - Processing link 63/100
+2025-04-13 20:55:47,469 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4231
+2025-04-13 20:55:49,129 - INFO - Found 8 tables
+2025-04-13 20:55:49,130 - INFO - Using date: 2025-02-11
+2025-04-13 20:55:49,149 - INFO - Appended 166 rows
+2025-04-13 20:55:49,150 - INFO - Processing link 64/100
+2025-04-13 20:55:49,150 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4230
+2025-04-13 20:55:52,670 - INFO - Found 8 tables
+2025-04-13 20:55:52,671 - INFO - Using date: 2025-02-10
+2025-04-13 20:55:52,691 - INFO - Appended 164 rows
+2025-04-13 20:55:52,692 - INFO - Processing link 65/100
+2025-04-13 20:55:52,692 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4229
+2025-04-13 20:55:55,530 - INFO - Found 8 tables
+2025-04-13 20:55:55,531 - INFO - Using date: 2025-02-09
+2025-04-13 20:55:55,550 - INFO - Appended 164 rows
+2025-04-13 20:55:55,550 - INFO - Processing link 66/100
+2025-04-13 20:55:55,551 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4228
+2025-04-13 20:55:59,024 - INFO - Found 8 tables
+2025-04-13 20:55:59,024 - INFO - Using date: 2025-02-08
+2025-04-13 20:55:59,044 - INFO - Appended 166 rows
+2025-04-13 20:55:59,045 - INFO - Processing link 67/100
+2025-04-13 20:55:59,045 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4227
+2025-04-13 20:56:02,170 - INFO - Found 8 tables
+2025-04-13 20:56:02,170 - INFO - Using date: 2025-02-07
+2025-04-13 20:56:02,189 - INFO - Appended 161 rows
+2025-04-13 20:56:02,190 - INFO - Processing link 68/100
+2025-04-13 20:56:02,190 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4226
+2025-04-13 20:56:03,802 - INFO - Found 8 tables
+2025-04-13 20:56:03,802 - INFO - Using date: 2025-02-06
+2025-04-13 20:56:03,821 - INFO - Appended 120 rows
+2025-04-13 20:56:03,822 - INFO - Processing link 69/100
+2025-04-13 20:56:03,822 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4225
+2025-04-13 20:56:05,489 - INFO - Found 8 tables
+2025-04-13 20:56:05,490 - INFO - Using date: 2025-02-05
+2025-04-13 20:56:05,505 - INFO - Appended 77 rows
+2025-04-13 20:56:05,506 - INFO - Processing link 70/100
+2025-04-13 20:56:05,506 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4224
+2025-04-13 20:56:08,684 - INFO - Found 8 tables
+2025-04-13 20:56:08,685 - INFO - Using date: 2025-02-04
+2025-04-13 20:56:08,705 - INFO - Appended 164 rows
+2025-04-13 20:56:08,705 - INFO - Processing link 71/100
+2025-04-13 20:56:08,706 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4223
+2025-04-13 20:56:10,308 - INFO - Found 8 tables
+2025-04-13 20:56:10,309 - INFO - Using date: 2025-02-03
+2025-04-13 20:56:10,328 - INFO - Appended 167 rows
+2025-04-13 20:56:10,328 - INFO - Processing link 72/100
+2025-04-13 20:56:10,329 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4222
+2025-04-13 20:56:14,574 - INFO - Found 8 tables
+2025-04-13 20:56:14,575 - INFO - Using date: 2025-02-02
+2025-04-13 20:56:14,593 - INFO - Appended 163 rows
+2025-04-13 20:56:14,594 - INFO - Processing link 73/100
+2025-04-13 20:56:14,594 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4221
+2025-04-13 20:56:21,687 - INFO - Found 8 tables
+2025-04-13 20:56:21,687 - INFO - Using date: 2025-02-01
+2025-04-13 20:56:21,706 - INFO - Appended 160 rows
+2025-04-13 20:56:21,707 - INFO - Processing link 74/100
+2025-04-13 20:56:21,707 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4219
+2025-04-13 20:56:24,945 - INFO - Found 8 tables
+2025-04-13 20:56:24,946 - INFO - Using date: 2025-01-31
+2025-04-13 20:56:24,962 - INFO - Appended 77 rows
+2025-04-13 20:56:24,963 - INFO - Processing link 75/100
+2025-04-13 20:56:24,963 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4218
+2025-04-13 20:56:28,347 - INFO - Found 8 tables
+2025-04-13 20:56:28,348 - INFO - Using date: 2025-01-30
+2025-04-13 20:56:28,367 - INFO - Appended 165 rows
+2025-04-13 20:56:28,368 - INFO - Processing link 76/100
+2025-04-13 20:56:28,368 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4217
+2025-04-13 20:56:31,343 - INFO - Found 8 tables
+2025-04-13 20:56:31,343 - INFO - Using date: 2025-01-29
+2025-04-13 20:56:31,362 - INFO - Appended 170 rows
+2025-04-13 20:56:31,363 - INFO - Processing link 77/100
+2025-04-13 20:56:31,363 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4216
+2025-04-13 20:56:34,580 - INFO - Found 8 tables
+2025-04-13 20:56:34,581 - INFO - Using date: 2025-01-28
+2025-04-13 20:56:34,600 - INFO - Appended 160 rows
+2025-04-13 20:56:34,601 - INFO - Processing link 78/100
+2025-04-13 20:56:34,601 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4212
+2025-04-13 20:56:37,936 - INFO - Found 8 tables
+2025-04-13 20:56:37,937 - INFO - Using date: 2025-01-27
+2025-04-13 20:56:37,953 - INFO - Appended 76 rows
+2025-04-13 20:56:37,954 - INFO - Processing link 79/100
+2025-04-13 20:56:37,954 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4211
+2025-04-13 20:56:41,373 - INFO - Found 8 tables
+2025-04-13 20:56:41,374 - INFO - Using date: 2025-01-26
+2025-04-13 20:56:41,394 - INFO - Appended 167 rows
+2025-04-13 20:56:41,395 - INFO - Processing link 80/100
+2025-04-13 20:56:41,395 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4210
+2025-04-13 20:56:43,124 - INFO - Found 8 tables
+2025-04-13 20:56:43,125 - INFO - Using date: 2025-01-25
+2025-04-13 20:56:43,145 - INFO - Appended 168 rows
+2025-04-13 20:56:43,146 - INFO - Processing link 81/100
+2025-04-13 20:56:43,146 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4209
+2025-04-13 20:56:49,895 - INFO - Found 8 tables
+2025-04-13 20:56:49,895 - INFO - Using date: 2025-01-24
+2025-04-13 20:56:49,916 - INFO - Appended 159 rows
+2025-04-13 20:56:49,917 - INFO - Processing link 82/100
+2025-04-13 20:56:49,917 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4208
+2025-04-13 20:56:52,847 - INFO - Found 8 tables
+2025-04-13 20:56:52,848 - INFO - Using date: 2025-01-23
+2025-04-13 20:56:52,869 - INFO - Appended 161 rows
+2025-04-13 20:56:52,870 - INFO - Processing link 83/100
+2025-04-13 20:56:52,870 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4207
+2025-04-13 20:56:54,487 - INFO - Found 8 tables
+2025-04-13 20:56:54,488 - INFO - Using date: 2025-01-22
+2025-04-13 20:56:54,507 - INFO - Appended 157 rows
+2025-04-13 20:56:54,508 - INFO - Processing link 84/100
+2025-04-13 20:56:54,509 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4206
+2025-04-13 20:56:58,158 - INFO - Found 8 tables
+2025-04-13 20:56:58,159 - INFO - Using date: 2025-01-21
+2025-04-13 20:56:58,176 - INFO - Appended 116 rows
+2025-04-13 20:56:58,177 - INFO - Processing link 85/100
+2025-04-13 20:56:58,177 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4205
+2025-04-13 20:56:59,818 - INFO - Found 8 tables
+2025-04-13 20:56:59,819 - INFO - Using date: 2025-01-20
+2025-04-13 20:56:59,839 - INFO - Appended 162 rows
+2025-04-13 20:56:59,840 - INFO - Processing link 86/100
+2025-04-13 20:56:59,840 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4204
+2025-04-13 20:57:01,454 - INFO - Found 8 tables
+2025-04-13 20:57:01,455 - INFO - Using date: 2025-01-19
+2025-04-13 20:57:01,475 - INFO - Appended 168 rows
+2025-04-13 20:57:01,476 - INFO - Processing link 87/100
+2025-04-13 20:57:01,477 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4203
+2025-04-13 20:57:05,677 - INFO - Found 8 tables
+2025-04-13 20:57:05,678 - INFO - Using date: 2025-01-18
+2025-04-13 20:57:05,696 - INFO - Appended 157 rows
+2025-04-13 20:57:05,697 - INFO - Processing link 88/100
+2025-04-13 20:57:05,697 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4202
+2025-04-13 20:57:09,097 - INFO - Found 8 tables
+2025-04-13 20:57:09,097 - INFO - Using date: 2025-01-17
+2025-04-13 20:57:09,116 - INFO - Appended 162 rows
+2025-04-13 20:57:09,117 - INFO - Processing link 89/100
+2025-04-13 20:57:09,118 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4201
+2025-04-13 20:57:12,614 - INFO - Found 8 tables
+2025-04-13 20:57:12,615 - INFO - Using date: 2025-01-16
+2025-04-13 20:57:12,633 - INFO - Appended 157 rows
+2025-04-13 20:57:12,635 - INFO - Processing link 90/100
+2025-04-13 20:57:12,635 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4200
+2025-04-13 20:57:17,424 - INFO - Found 8 tables
+2025-04-13 20:57:17,425 - INFO - Using date: 2025-01-15
+2025-04-13 20:57:17,445 - INFO - Appended 116 rows
+2025-04-13 20:57:17,446 - INFO - Processing link 91/100
+2025-04-13 20:57:17,446 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4199
+2025-04-13 20:57:25,840 - INFO - Found 8 tables
+2025-04-13 20:57:25,840 - INFO - Using date: 2025-01-14
+2025-04-13 20:57:25,856 - INFO - Appended 75 rows
+2025-04-13 20:57:25,857 - INFO - Processing link 92/100
+2025-04-13 20:57:25,857 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4198
+2025-04-13 20:57:29,262 - INFO - Found 8 tables
+2025-04-13 20:57:29,262 - INFO - Using date: 2025-01-13
+2025-04-13 20:57:29,281 - INFO - Appended 161 rows
+2025-04-13 20:57:29,282 - INFO - Processing link 93/100
+2025-04-13 20:57:29,282 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4197
+2025-04-13 20:57:31,153 - INFO - Found 8 tables
+2025-04-13 20:57:31,153 - INFO - Using date: 2025-01-12
+2025-04-13 20:57:31,173 - INFO - Appended 160 rows
+2025-04-13 20:57:31,174 - INFO - Processing link 94/100
+2025-04-13 20:57:31,174 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4196
+2025-04-13 20:57:34,667 - INFO - Found 8 tables
+2025-04-13 20:57:34,667 - INFO - Using date: 2025-01-11
+2025-04-13 20:57:34,685 - INFO - Appended 159 rows
+2025-04-13 20:57:34,686 - INFO - Processing link 95/100
+2025-04-13 20:57:34,686 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4195
+2025-04-13 20:57:38,033 - INFO - Found 8 tables
+2025-04-13 20:57:38,034 - INFO - Using date: 2025-01-10
+2025-04-13 20:57:38,053 - INFO - Appended 158 rows
+2025-04-13 20:57:38,055 - INFO - Processing link 96/100
+2025-04-13 20:57:38,055 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4194
+2025-04-13 20:57:41,438 - INFO - Found 8 tables
+2025-04-13 20:57:41,438 - INFO - Using date: 2025-01-09
+2025-04-13 20:57:41,458 - INFO - Appended 162 rows
+2025-04-13 20:57:41,459 - INFO - Processing link 97/100
+2025-04-13 20:57:41,459 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4193
+2025-04-13 20:57:43,725 - INFO - Found 8 tables
+2025-04-13 20:57:43,725 - INFO - Using date: 2025-01-08
+2025-04-13 20:57:43,747 - INFO - Appended 163 rows
+2025-04-13 20:57:43,748 - INFO - Processing link 98/100
+2025-04-13 20:57:43,749 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4192
+2025-04-13 20:57:46,634 - INFO - Found 8 tables
+2025-04-13 20:57:46,635 - INFO - Using date: 2025-01-07
+2025-04-13 20:57:46,652 - INFO - Appended 119 rows
+2025-04-13 20:57:46,653 - INFO - Processing link 99/100
+2025-04-13 20:57:46,653 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4191
+2025-04-13 20:57:49,770 - INFO - Found 8 tables
+2025-04-13 20:57:49,770 - INFO - Using date: 2025-01-06
+2025-04-13 20:57:49,798 - INFO - Appended 75 rows
+2025-04-13 20:57:49,799 - INFO - Processing link 100/100
+2025-04-13 20:57:49,799 - INFO - Fetching: http://www.puneapmc.org/history.aspx?id=Rates4190
+2025-04-13 20:57:51,429 - INFO - Found 8 tables
+2025-04-13 20:57:51,430 - INFO - Using date: 2025-01-05
+2025-04-13 20:57:51,539 - INFO - Appended 162 rows
+2025-04-13 20:57:51,540 - INFO - Scraping completed. Total rows collected: 14235
