@@ -42,10 +42,4 @@ KrushiPravah/
 - `/get_prediction` - API endpoint for price predictions
 - `/get_price_trends` - API endpoint for price trend data
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the project maintainers. 
